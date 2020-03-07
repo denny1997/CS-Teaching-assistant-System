@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Modify Course Information</title>
+</head>
+<body>
+    <form action="/modify-course" method="post">
+        {% csrf_token %}
+        <label>Course Name</label>
+        <input type="text" name="name" value="{{ modify_course.name }}">
+        <label>Course Credits</label>
+        <input type="number" name="credits" value="{{ modify_course.credits }}">
+        <label>Section Number</label>
+        <input type="text" name="sectionNumber" value="{{ modify_course.sectionNumber }}">
+        <label>Course Description</label>
+        <input type="text" name="description" value="{{ modify_course.description }}">
+        <input type="hidden" name="id" value="{{ modify_course.id }}">
+        <input type="submit" value="Modify Confirmed">
+    </form>
+</body>
+</html>
