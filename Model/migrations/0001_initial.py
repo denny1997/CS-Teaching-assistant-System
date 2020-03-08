@@ -31,13 +31,4 @@ class Migration(migrations.Migration):
                 ('research_area', models.TextField(max_length=500)),
             ],
         ),
-        migrations.CreateModel(
-            name='Teaches',
-            fields=[
-                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('semester', models.CharField(max_length=20)),
-                ('course', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='Model.Faculty')),
-                ('faculty', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='Model.Course')),
-            ],
-        ),
     ]

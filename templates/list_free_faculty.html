@@ -2,10 +2,17 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>List All Faculties</title>
+    <title>List Free Fculty</title>
 </head>
 <body>
-    <a href="add-faculty-form">Add New Faculty</a>
+    <h1>Free Faculty in {{ semester }}</h1>
+    <form action="list-free-faculty" method="get">
+        <select name="semester">
+            <option>fall2019</option>
+            <option>fall2018</option>
+        </select>
+        <input type="submit" value="search">
+    </form>
     <table>
         <tr>
             <th>Name</th>
@@ -19,9 +26,7 @@
                 <td>{{ faculty.email }}</td>
                 <td>{{ faculty.research_area }}</td>
                 <td>
-                    <a href="modify-faculty-form?faculty_id={{ faculty.id }}">Modify</a>
-                    <a href="delete-faculty?faculty_id={{ faculty.id }}">Delete</a>
-                    <a href="add-teaches-form?faculty_name={{ faculty.name }}">Assign a Course</a>
+                    <a href="add-teaches-form?faculty_name={{ faculty.name }}&semester={{ semester }}">Assign a Course</a>
                 </td>
             </tr>
         {% endfor %}

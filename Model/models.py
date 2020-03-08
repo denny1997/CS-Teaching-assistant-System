@@ -13,5 +13,5 @@ class Faculty(models.Model):
 
 class Teaches(models.Model):
     semester = models.CharField(max_length=20)
-    faculty = models.ForeignKey('Course',on_delete=models.CASCADE)
-    course = models.ForeignKey('Faculty',on_delete=models.CASCADE)
+    faculty = models.ForeignKey('Faculty',on_delete=models.CASCADE)
+    course = models.ForeignKey('Course',on_delete=models.CASCADE)
