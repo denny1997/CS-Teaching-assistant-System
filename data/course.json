@@ -1,0 +1,740 @@
+[
+    {
+        "name": "CS 101",
+        "title": "Intro Computing: Engrg & Sci",
+        "description": "Fundamental principles, concepts, and methods of computing, with emphasis on applications in the physical sciences and engineering. Basic problem solving and programming techniques; fundamental algorithms and data structures; use of computers in solving engineering and scientific problems. Intended for engineering and science majors. ",
+        "credits": " 3 hours."
+    },
+    {
+        "name": "CS 105",
+        "title": "Intro Computing: Non-Tech",
+        "description": "Computing as an essential tool of academic and professional activities. Functions and interrelationships of computer system components: hardware, systems and applications software, and networks. Widely used application packages such as spreadsheets and databases. Concepts and practice of programming for the solution of simple problems in different application areas. Intended for non-science and non-engineering majors. ",
+        "credits": " 3 hours."
+    },
+    {
+        "name": "CS 125",
+        "title": "Intro to Computer Science",
+        "description": "Basic concepts in computing and fundamental techniques for solving computational problems. Intended as a first course for computer science majors and others with a deep interest in computing. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 126",
+        "title": "Software Design Studio",
+        "description": "Fundamental principles and techniques of software development. Design, documentation, testing, and debugging software, with a significant emphasis on code review. ",
+        "credits": " 3 hours."
+    },
+    {
+        "name": "CS 173",
+        "title": "Discrete Structures",
+        "description": "Discrete mathematical structures frequently encountered in the study of Computer Science. Sets, propositions, Boolean algebra, induction, recursion, relations, functions, and graphs. ",
+        "credits": " 3 hours."
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "description": "Offered for honors credit in conjunction with other 100-level computer science courses taken concurrently. A special examination may be required for admission to this course. ",
+        "credits": " 1 hours."
+    },
+    {
+        "name": "CS 199",
+        "title": "Python for Data",
+        "description": "Topics vary. ",
+        "credits": " 0 TO 5 hours."
+    },
+    {
+        "name": "CS 210",
+        "title": "Ethical & Professional Issues",
+        "description": "Ethics for the computing profession. Ethical decision-making; licensing; intellectual property, freedom of information, and privacy. ",
+        "credits": " 2 hours."
+    },
+    {
+        "name": "CS 225",
+        "title": "Data Structures",
+        "description": "Data abstractions: elementary data structures (lists, stacks, queues, and trees) and their implementation using an object-oriented programming language. Solutions to a variety of computational problems such as search on graphs and trees. Elementary analysis of algorithms. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 233",
+        "title": "Computer Architecture",
+        "description": "Fundamentals of computer architecture: digital logic design, working up from the logic gate level to understand the function of a simple computer; machine-level programming to understand implementation of high-level languages; performance models of modern computer architectures to enable performance optimization of software; hardware primitives for parallelism and security. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 241",
+        "title": "System Programming",
+        "description": "Basics of system programming, including POSIX processes, process control, inter-process communication, synchronization, signals, simple memory management, file I/O and directories, shell programming, socket network programming, RPC programming in distributed systems, basic security mechanisms, and standard tools for systems programming such as debugging tools. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 242",
+        "title": "Programming Studio",
+        "description": "Intensive programming lab intended to strengthen skills in programming. ",
+        "credits": " 3 hours."
+    },
+    {
+        "name": "CS 296",
+        "title": "Honors Course",
+        "description": "Group projects for honors credit in computer science. Sections of this course are offered in conjunction with other 200-level computer science courses taken concurrently. A special examination may be required for admission to this course. ",
+        "credits": " 1 hours."
+    },
+    {
+        "name": "CS 357",
+        "title": "Numerical Methods I",
+        "description": "Fundamentals of numerical methods for students in science and engineering; floating-point computation, systems of linear equations, approximation of functions and integrals, the single nonlinear equation, and the numerical solution of ordinary differential equations; various applications in science and engineering; programming exercises and use of high quality mathematical library routines. ",
+        "credits": " 3 hours."
+    },
+    {
+        "name": "CS 361",
+        "title": "Prob & Stat for Computer Sci",
+        "description": "Introduction to probability theory and statistics with applications to computer science. Topics include: visualizing datasets, summarizing data, basic descriptive statistics, conditional probability, independence, Bayes theorem, random variables, joint and conditional distributions, expectation, variance and covariance, central limit theorem. Markov inequality, Chebyshev inequality, law of large numbers, Markov chains, simulation, the PageRank algorithm, populations and sampling, sample mean, standard error, maximum likelihood estimation, Bayes estimation, hypothesis testing, confidence intervals, linear regression, principal component analysis, classification, and decision trees. ",
+        "credits": " 3 hours."
+    },
+    {
+        "name": "CS 374",
+        "title": "Intro to Algs & Models of Comp",
+        "description": "Analysis of algorithms, major paradigms of algorithm design including recursive algorithms, divide-and-conquer algorithms, dynamic programming, greedy algorithms, and graph algorithms. Formal models of computation including finite automata and Turing machines. Limitations of computation arising from fundamental notions of algorithm and from complexity-theoretic constraints. Reductions, undecidability and NP-completeness. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 398",
+        "title": "Deep Learning",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 398",
+        "title": "Introduction to Data Science",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 410",
+        "title": "Text Information Systems",
+        "description": "Theory, design, and implementation of text-based information systems. Text analysis, retrieval models (e.g., Boolean, vector space, probabilistic), text categorization, text filtering, clustering, retrieval system design and implementation, and applications to web information management. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 411",
+        "title": "Database Systems",
+        "description": "Examination of the logical organization of databases: the entity-relationship model; the hierarchical, network, and relational data models and their languages. Functional dependencies and normal forms. Design, implementation, and optimization of query languages; security and integrity; concurrency control, and distributed database systems. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 412",
+        "title": "Introduction to Data Mining",
+        "description": "Concepts, techniques, and systems of data warehousing and data mining. Design and implementation of data warehouse and on-line analytical processing (OLAP) systems; data mining concepts, methods, systems, implementations, and applications. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 418",
+        "title": "Interactive Computer Graphics",
+        "description": "Basic mathematical tools and computational techniques for modeling, rendering, and animating 3-D scenes. ",
+        "credits": " 3 or 4 hours."
+    },
+    {
+        "name": "CS 421",
+        "title": "Progrmg Languages & Compilers",
+        "description": "Structure of programming languages and their implementation. Basic language design principles; abstract data types; functional languages; type systems; object-oriented languages. Basics of lexing, parsing, syntax-directed translation, semantic analysis, and code generation. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 423",
+        "title": "Operating Systems Design",
+        "description": "Organization and structure of modern operating systems and concurrent programming concepts. Deadlock, virtual memory, processor scheduling, and disk systems. Performance, security, and protection. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 425",
+        "title": "Distributed Systems",
+        "description": "Protocols, specification techniques, global states and their determination, reliable broadcast, transactions and commitment, security, and real-time systems. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 429",
+        "title": "Software Engineering II ACP",
+        "description": "Continuation of CS 427. Identical to CS 428 except for the additional writing component. ",
+        "credits": " 3 hours."
+    },
+    {
+        "name": "CS 431",
+        "title": "Embedded Systems",
+        "description": "A survey of sampled data systems and embedded architecture; key concepts in common embedded system applications; signal processing and control; embedded microprocessor and device interface; time-critical I/O handling; data communications; real-time operating systems and techniques for the development and analysis of embedded real-time software; hands-on laboratory projects. ",
+        "credits": " 3 or 4 hours."
+    },
+    {
+        "name": "CS 433",
+        "title": "Computer System Organization",
+        "description": "Computer hardware design and analysis and interface with software. Advanced processor design, including superscalar, out-of-order issue, branch prediction, and speculation. Memory hierarchy design, including advanced cache optimizations, main memory, and virtual memory. Principles of multiprocessor design, including shared-memory, cache coherence, synchronization, and consistency. Other advanced topics depending on time; e.g., GPUs and accelerators, warehouse computers and data centers, security. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 438",
+        "title": "Communication Networks",
+        "description": "Layered architectures and the OSI Reference Model; design issues and protocols in the transport, network, and data link layers; architectures and control algorithms of local-area, point-to-point, and satellite networks; standards in networks access protocols; models of network interconnection; overview of networking and communication software. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 440",
+        "title": "Artificial Intelligence",
+        "description": "Major topics in and directions of research in artificial intelligence: AI languages (LISP and PROLOG), basic problem solving techniques, knowledge representation and computer inference, machine learning, natural language understanding, computer vision, robotics, and societal impacts. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 446",
+        "title": "Machine Learning",
+        "description": "Theory and basic techniques in machine learning. Major theoretical paradigms and key concepts developed in machine learning in the context of applications such as natural language and text processing, computer vision, data mining, adaptive computer systems and others. Review of several supervised and unsupervised learning approaches: methods for learning linear representations; on-line learning, Bayesian methods; decision-trees; features and kernels; clustering and dimensionality reduction. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 450",
+        "title": "Numerical Analysis",
+        "description": "Linear system solvers, optimization techniques, interpolation and approximation of functions, solving systems of nonlinear equations, eigenvalue problems, least squares, and quadrature; numerical handling of ordinary and partial differential equations. ",
+        "credits": " 3 or 4 hours."
+    },
+    {
+        "name": "CS 460",
+        "title": "Security Laboratory",
+        "description": "Operating systems security: access control, least privilege mechanism and malware techniques. Network security: firewalls, sniffing, tunnels, intrusion detection, AAA and worm structure. System security: forensics security architectures, and attack/defend exercises. Complements ",
+        "credits": " 3 or 4 hours."
+    },
+    {
+        "name": "CS 461",
+        "title": "Computer Security I",
+        "description": "Fundamental principles of computer and communications security and information assurance: ethics, privacy, notions of threat, vulnerabilities, and risk in systems, information warfare, malicious software, data secrecy and integrity issues, network security, trusted computing, mandatory and discretionary access controls, certification and accreditation of systems against security standards. Security mechanisms: authentication, auditing, intrusion detection, access control, cryptography, security protocols, key distribution. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 463",
+        "title": "Computer Security II",
+        "description": "Program security, trusted base, privacy, anonymity, non-interference, information flow, confinement, advanced auditing, forensics, intrusion detection, key management and distribution, policy composition and analysis, formal approaches to specification and verification of secure systems and protocols, and topics in applied cryptography. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 465",
+        "title": "User Interface Design",
+        "description": "A project-focused course covering fundamental principles of user interface design, implementation, and evaluation. Small teams work on a term-long project that involves: analysis of the problem domain, user skills, and tasks; iterative prototyping of interfaces to address user needs; conducting several forms of evaluation such as cognitive walkthroughs and usability tests; implementation of the final prototype. Non-technical majors may enroll as non-programmers who participate in all aspects of the projects with the possible exception of implementation. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 466",
+        "title": "Introduction to Bioinformatics",
+        "description": "Algorithmic approaches in bioinformatics: (i) biological problems that can be solved computationally (e.g., discovering genes, and interactions among different genes and proteins); (ii) algorithmic techniques with wide applicability in solving these problems (e.g., dynamic programming and probabilistic methods); (iii) practical issues in translating the basic algorithmic ideas into accurate and efficient tools that biologists may use. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 467",
+        "title": "Social Visualization",
+        "description": "Visualizing social interaction in networked spaces: investigation of patterns in networked communications systems such as messaging (email, instant messaging), social networking sites and collaborative sites; social network theory and visualizations; exploration of how to move beyond existing visualization techniques; visualizing the network identity over compilations of online data. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 477",
+        "title": "Formal Software Devel Methods",
+        "description": "Mathematical models, languages, and methods for software specification, development, and verification. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 484",
+        "title": "Parallel Programming",
+        "description": "Techniques for the programming of all classes of parallel computers and devices including shared memory and distributed memory multiprocessors, SIMD processors and co-processors, and special purpose devices. Key concepts in parallel programming such as reactive and transformational programming, speculation, speedup, isoefficiency, and load balancing. Synchronization primitives, libraries and languages for parallel programming such as OpenMP and MPI, performance monitoring, program tuning, analysis and programming of numerical and symbolic parallel algorithms. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Algorithms for Big Data",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Applied Machine Learning",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Cloud Computing Applications",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Data Science & Analytics",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Internet of Things",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Audio Computing Lab",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Art and Science of Web Prog",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Virtual Reality",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 512",
+        "title": "Data Mining Principles",
+        "description": "An advanced course on principles and algorithms of data mining. Data cleaning and integration; descriptive and predictive mining; mining frequent, sequential, and structured patterns; clustering, outlier analysis and fraud detection; stream data, web, text, and biomedical data mining; security and privacy in data mining; research frontiers. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 527",
+        "title": "Topics in Software Engineering",
+        "description": "Fault-tolerant software, software architecture, software patterns, multi-media software, and knowledge-based approaches to software engineering. Case studies. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 533",
+        "title": "Parallel Computer Architecture",
+        "description": "Theoretical aspects of parallel and pipeline computation; time and processor bounds on classes of computations; data alignment network speed and cost bounds; conflict-free access memories; overall computer system ideas. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 538",
+        "title": "Advanced Computer Networks",
+        "description": "Advanced concepts in computer networks, including congestion control, quality of service, naming, routing, wireless networks, Internet architecture, measurement, network security, and selected recent research directions. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 555",
+        "title": "Numerical Methods for PDEs",
+        "description": "Numerical techniques for initial and boundary value problems in partial differential equations. Finite difference and finite element discretization techniques, direct and iterative solution methods for discrete problems, and programming techniques and usage of software packages. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 579",
+        "title": "Computational Complexity",
+        "description": "Turing machines; determinism and non-determinism; time and space hierarchy theorems; speed-up and tape compression; Blum axioms; structure of complexity classes NP, P, NL, L, and PSPACE; complete problems; randomness and complexity classes RP, RL, and BPP; alternation, polynomial-time hierarchy; circuit complexity, parallel complexity, NC, and RNC; relativized computational complexity; time-space trade-offs. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Stat Reinforcement lrng",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 100",
+        "title": "Freshman Orientation",
+        "description": "Introduction to Computer Science as a field and career for computer science majors. Overview of the field and specific examples of problem areas and methods of solution.",
+        "credits": " 1 hours."
+    },
+    {
+        "name": "CS 199",
+        "title": "Real World Cases Scient Comput",
+        "description": "Topics vary. ",
+        "credits": " 0 TO 5 hours."
+    },
+    {
+        "name": "CS 419",
+        "title": "Production Computer Graphics",
+        "description": "Advanced methods for representing, displaying, and rendering two-, three-, and four-dimensional scenes. General algebraic curves and surfaces, splines, Gaussian and bump-function representation, fractals, particle systems, constructive solid geometry methods, lighting models, radiosity, advanced ray-tracing methods, surface texturing animation techniques, data visualization methods. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 424",
+        "title": "Real-Time Systems",
+        "description": "Supervisory control aspects of Cyber Physical Systems (CPS): fundamentals of reliability analysis, real-time scheduling, simple feedback control, software fault tolerance architecture, wireless networking and energy saving, principles of safety critical system engineering. Student groups design and demonstrate supervisory control architecture for a robot. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 427",
+        "title": "Software Engineering I",
+        "description": "Software process, analysis and design. Software development paradigms, system engineering, function-based analysis and design, and object-oriented analysis and design. Course will use team-projects for hands-on exercises. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 447",
+        "title": "Natural Language Processing",
+        "description": "Part-of-speech tagging, parsing, semantic analysis and machine translation. Relevant linguistics concepts from morphology (word formation) and lexical semantics (the meaning of words) to syntax (sentence structure) and compositional semantics (the meaning of sentences). ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 473",
+        "title": "Algorithms",
+        "description": "Design and analysis techniques, approximation algorithms, randomized algorithms and amortized analysis, and advanced topics such as network flow, linear programming, and dynamic data structures, among others. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Digital Forensics",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Cyber Dystopia",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Cloud Networking",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Introduction to Deep Learning",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Computational Advertising",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Experimental Methods for HCI",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 510",
+        "title": "Advanced Information Retrieval",
+        "description": "Advanced concepts, models, and algorithms in information retrieval and major recent developments in the field, including historical milestones in information retrieval research, evaluation methodology, vector space retrieval model, probabilistic retrieval models, learning to rank algorithms, probabilistic topic models, information retrieval systems, text analytics, and topics of research frontiers in information retrieval. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 548",
+        "title": "Models of Cognitive Processes",
+        "description": "Formal models and concepts in automated cognition; integrating machine learning and prior knowledge; current approaches and detailed analyses of the role of reasoning in the learning process; computational complexity and fundamental tradeoffs between expressiveness and tractability; implications for state-of-the-art artificial intelligence areas such as automated planning, the semantic web, relational learning, structured prediction, latent models, structure learning, theory formation, etc.; philosophical and psychological aspects of integrating analytic and empirical evidence. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 563",
+        "title": "Advanced Computer Security",
+        "description": "Current research trends in computer and network security. Privacy, tamper-resistance, unwanted traffic, monitoring and surveillance, and critical infrastructure protection. Subtopics will vary depending upon current research trends. Students work in teams in close coordination with the course instructor to develop one of the topics in depth by carrying out background research and an exploratory project. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Foundations of Data Curation",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Lang/Abst f High-Perf Sci Comp",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Adversarial Machine Learning",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Deep Learning",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Advanced Bayesian Modeling",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Machine Lrning Computation Bio",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Social Spaces on the Internet",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Statistical Reinforcement",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Mach Lrng for Signal Processng",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Practical Statistical Learning",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "HCI for ML",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Realiablity of Cloud-Scale Sys",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 398",
+        "title": "Applied Cloud Computing",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 492",
+        "title": "Senior Project I",
+        "description": "First part of a project course in computer science. Students work in teams to solve typical commercial or industrial problems. Work involves planning, design, and implementation. Extensive oral and written work is required both on-campus and possibly off-campus at sponsors' locations. ",
+        "credits": " 3 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Learning and Computer Science",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 525",
+        "title": "Advanced Distributed Systems",
+        "description": "Peer-to-peer systems, sensor networks, and fundamental theoretical distributed computing. Review of classical work in each area, and application of design methodologies to explore overlaps across them. Emphasis on protocol design, systems issues, and theory. Reading selections are roughly two-third classical to one-third contemporary. Students write critiques, make presentations, and create a conference paper in a systematic manner. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 546",
+        "title": "Machine Learning in NLP",
+        "description": "Central learning frameworks and techniques that have emerged in the field of natural language processing and found applications in several areas in text and speech processing: from information retrieval and extraction, through speech recognition to syntax, semantics and language understanding related tasks. Examination of the theoretical paradigms -- learning theoretic, probabilistic, and information theoretic -- and the relations among them, as well as the main algorithmic techniques developed within each paradigm and in key natural language applications. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 583",
+        "title": "Approximation Algorithms",
+        "description": "Approximation algorithms for NP-hard problems. Basic and advanced techniques in approximation algorithm design: combinatorial algorithms; mathematical programming methods including linear and semi-definite programming, local search methods, and others. Algorithms for graphs and networks, constraint satisfaction, packing and scheduling. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 199",
+        "title": "De-Bug your Brain",
+        "description": "Topics vary. ",
+        "credits": " 0 TO 5 hours."
+    },
+    {
+        "name": "CS 420",
+        "title": "Parallel Progrmg: Sci & Engrg",
+        "description": "Fundamental issues in design and development of parallel programs for various types of parallel computers. Various programming models according to both machine type and application area. Cost models, debugging, and performance evaluation of parallel programs with actual application examples. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 445",
+        "title": "Computational Photography",
+        "description": "Computer vision techniques to enhance, manipulate, and create media from photo collections, such as panoramic stitching, face morphing, texture synthesis, blending, and 3D reconstruction. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Theory II",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "The Art of Web Programming",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 519",
+        "title": "Scientific Visualization",
+        "description": "Visualization techniques useful in analysis of engineering and scientific data. Physical models; methods of computational science; two- and three-dimensional data types; visual representation schemes for scalar, vector, and tensor data; isosurface and volume visualization methods; visual monitoring; interactive steering. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 523",
+        "title": "Advanced Operating Systems",
+        "description": "Advanced concepts in operating system design and coverage of recent research directions. Resource management for parallel and distributed systems. Interaction between operating system design and computer architectures. Process management, virtual memory, interprocess communication, context switching, parallel and distributed file system designs, persistent objects, process and data migration, load balancing, security, protection. Term projects. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 554",
+        "title": "Parallel Numerical Algorithms",
+        "description": "Numerical algorithms for parallel computers: parallel algorithms in numerical linear algebra (dense and sparse solvers for linear systems and the algebraic eigenvalue problem), numerical handling of ordinary and partial differential equations, and numerical optimization techniques. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Secure Processor Design",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Adv Social&Information Network",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Machine Learning Theory",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 199",
+        "title": "Undergraduate Open Seminar",
+        "description": "Topics vary. ",
+        "credits": " 0 TO 5 hours."
+    },
+    {
+        "name": "CS 493",
+        "title": "Senior Project II ACP",
+        "description": "Continuation of CS 492. Identical to CS 494 except for an additional writing component. ",
+        "credits": " 3 hours."
+    },
+    {
+        "name": "CS 511",
+        "title": "Advanced Data Management",
+        "description": "Advanced concepts in data management and information system design and implementation, and recent developments in the field. 1) Relational roots, objects and extensibility, query languages, data indexing, query processing, transaction processing, benchmarks, and 2) semi-structured data and unstructured data, information extraction, information integration, web search and mining, and other emerging directions in the field. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 565",
+        "title": "Human-Computer Interaction",
+        "description": "In-depth coverage of advanced topics in human-computer interaction (HCI). Applied models of human performance and attention, design tools for creative design tasks, interruptions and peripheral displays, gestures, and bimanual input, and usability evaluation techniques. Students complete a research-oriented term project of their choosing. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Autonomous Vehicles for AI",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Cutting-Edge Trends In DLR",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Social Sensing",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 426",
+        "title": "Compiler Construction",
+        "description": "Compiler structure, syntax analysis, syntax-directed translation, automatically constructed recognizers, semantic analysis, code generation, intermediate language, optimization techniques. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Social & Information Networks",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Intro to Data Science",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Advanced Information Retrieval",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Graphical Models",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 428",
+        "title": "Software Engineering II",
+        "description": "Continuation of CS 427. Software development, management, and maintenance. Project and configuration management, collaborative development models, software quality assurance, interoperability domain engineering and software reuse, and software re-engineering. ",
+        "credits": " 3 OR 4 hours."
+    },
+    {
+        "name": "CS 494",
+        "title": "Senior Project II",
+        "description": "Continuation of CS 492. ",
+        "credits": " 3 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Mobile Interaction Design",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Algorithms and Models of Comp",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Probability in CS",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 498",
+        "title": "Software Testing",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 1 to 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Advanced Data Structures",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Data-Driven Design",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 473",
+        "title": "Fundamental Algorithms",
+        "description": "Design and analysis techniques, approximation algorithms, randomized algorithms and amortized analysis, and advanced topics such as network flow, linear programming, and dynamic data structures, among others. ",
+        "credits": " 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Topic in Algorithms",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    },
+    {
+        "name": "CS 598",
+        "title": "Improving Your Research Skills",
+        "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. ",
+        "credits": " 2 TO 4 hours."
+    }
+]

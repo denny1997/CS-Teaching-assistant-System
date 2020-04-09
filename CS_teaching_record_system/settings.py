@@ -86,6 +86,9 @@ DATABASES = {
     }
 }
 
+from mongoengine import connect
+connect('teaching', host='127.0.0.1')
+
 
 # Password validation
 # https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators

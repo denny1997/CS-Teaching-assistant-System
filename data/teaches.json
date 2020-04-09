@@ -1,0 +1,2984 @@
+[
+    {
+        "name": "CS 101",
+        "title": "Intro Computing: Engrg & Sci",
+        "semester": "2019-sp",
+        "faculty": "Neal E. Davis"
+    },
+    {
+        "name": "CS 105",
+        "title": "Intro Computing: Non-Tech",
+        "semester": "2019-sp",
+        "faculty": "Albert Fred Harris III"
+    },
+    {
+        "name": "CS 125",
+        "title": "Intro to Computer Science",
+        "semester": "2019-sp",
+        "faculty": "Geoffrey Werner Challen"
+    },
+    {
+        "name": "CS 126",
+        "title": "Software Design Studio",
+        "semester": "2019-sp",
+        "faculty": "Graham Carl Evans"
+    },
+    {
+        "name": "CS 173",
+        "title": "Discrete Structures",
+        "semester": "2019-sp",
+        "faculty": "Margaret M. Fleck"
+    },
+    {
+        "name": "CS 173",
+        "title": "Discrete Structures",
+        "semester": "2019-sp",
+        "faculty": "Varodayan David"
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "semester": "2019-sp",
+        "faculty": "Geoffrey Werner Challen"
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "semester": "2019-sp",
+        "faculty": "Margaret M. Fleck"
+    },
+    {
+        "name": "CS 199",
+        "title": "Python for Data",
+        "semester": "2019-sp",
+        "faculty": "Neal E. Davis"
+    },
+    {
+        "name": "CS 210",
+        "title": "Ethical & Professional Issues",
+        "semester": "2019-sp",
+        "faculty": "Ryan Matthew Cunningham"
+    },
+    {
+        "name": "CS 225",
+        "title": "Data Structures",
+        "semester": "2019-sp",
+        "faculty": "Craig Zilles"
+    },
+    {
+        "name": "CS 233",
+        "title": "Computer Architecture",
+        "semester": "2019-sp",
+        "faculty": "Geoffrey Lindsay Herman"
+    },
+    {
+        "name": "CS 241",
+        "title": "System Programming",
+        "semester": "2019-sp",
+        "faculty": "Lawrence Christopher Angrave"
+    },
+    {
+        "name": "CS 242",
+        "title": "Programming Studio",
+        "semester": "2019-sp",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 296",
+        "title": "Honors Course",
+        "semester": "2019-sp",
+        "faculty": "Wade A. Fagen-Ulmschneider"
+    },
+    {
+        "name": "CS 357",
+        "title": "Numerical Methods I",
+        "semester": "2019-sp",
+        "faculty": "Mariana Silva"
+    },
+    {
+        "name": "CS 361",
+        "title": "Prob & Stat for Computer Sci",
+        "semester": "2019-sp",
+        "faculty": "Varodayan David"
+    },
+    {
+        "name": "CS 374",
+        "title": "Intro to Algs & Models of Comp",
+        "semester": "2019-sp",
+        "faculty": "Sariel Har-Peled"
+    },
+    {
+        "name": "CS 374",
+        "title": "Intro to Algs & Models of Comp",
+        "semester": "2019-sp",
+        "faculty": "Haitham Al-Hassanieh"
+    },
+    {
+        "name": "CS 398",
+        "title": "Deep Learning",
+        "semester": "2019-sp",
+        "faculty": "Sirignano Justin A"
+    },
+    {
+        "name": "CS 398",
+        "title": "Introduction to Data Science",
+        "semester": "2019-sp",
+        "faculty": "Victoria Stodden"
+    },
+    {
+        "name": "CS 410",
+        "title": "Text Information Systems",
+        "semester": "2019-sp",
+        "faculty": "ChengXiang Zhai"
+    },
+    {
+        "name": "CS 411",
+        "title": "Database Systems",
+        "semester": "2019-sp",
+        "faculty": "Abdussalam Alawini"
+    },
+    {
+        "name": "CS 411",
+        "title": "Database Systems",
+        "semester": "2019-sp",
+        "faculty": "Kevin Chen-Chuan Chang"
+    },
+    {
+        "name": "CS 412",
+        "title": "Introduction to Data Mining",
+        "semester": "2019-sp",
+        "faculty": "Jiawei Han"
+    },
+    {
+        "name": "CS 412",
+        "title": "Introduction to Data Mining",
+        "semester": "2019-sp",
+        "faculty": "Li Qi"
+    },
+    {
+        "name": "CS 412",
+        "title": "Introduction to Data Mining",
+        "semester": "2019-sp",
+        "faculty": "Saurabh Sinha"
+    },
+    {
+        "name": "CS 418",
+        "title": "Interactive Computer Graphics",
+        "semester": "2019-sp",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 421",
+        "title": "Progrmg Languages & Compilers",
+        "semester": "2019-sp",
+        "faculty": "Mattox Alan Beckman"
+    },
+    {
+        "name": "CS 423",
+        "title": "Operating Systems Design",
+        "semester": "2019-sp",
+        "faculty": "Adam Bates"
+    },
+    {
+        "name": "CS 425",
+        "title": "Distributed Systems",
+        "semester": "2019-sp",
+        "faculty": "Nikita Borisov"
+    },
+    {
+        "name": "CS 429",
+        "title": "Software Engineering II ACP",
+        "semester": "2019-sp",
+        "faculty": "Darko Marinov"
+    },
+    {
+        "name": "CS 431",
+        "title": "Embedded Systems",
+        "semester": "2019-sp",
+        "faculty": "Lui Sha"
+    },
+    {
+        "name": "CS 433",
+        "title": "Computer System Organization",
+        "semester": "2019-sp",
+        "faculty": "Christopher Wardlaw Fletcher"
+    },
+    {
+        "name": "CS 438",
+        "title": "Communication Networks",
+        "semester": "2019-sp",
+        "faculty": "Robin Hillary Kravets"
+    },
+    {
+        "name": "CS 440",
+        "title": "Artificial Intelligence",
+        "semester": "2019-sp",
+        "faculty": "Mark Hasegawa-Johnson"
+    },
+    {
+        "name": "CS 440",
+        "title": "Artificial Intelligence",
+        "semester": "2019-sp",
+        "faculty": "Julia Constanze Hockenmaier"
+    },
+    {
+        "name": "CS 446",
+        "title": "Machine Learning",
+        "semester": "2019-sp",
+        "faculty": "Alexander Schwing"
+    },
+    {
+        "name": "CS 446",
+        "title": "Machine Learning",
+        "semester": "2019-sp",
+        "faculty": "Matus Jan Telgarsky"
+    },
+    {
+        "name": "CS 450",
+        "title": "Numerical Analysis",
+        "semester": "2019-sp",
+        "faculty": "Andreas Paul Eberhard Kloeckner"
+    },
+    {
+        "name": "CS 460",
+        "title": "Security Laboratory",
+        "semester": "2019-sp",
+        "faculty": "Bambenek John C"
+    },
+    {
+        "name": "CS 461",
+        "title": "Computer Security I",
+        "semester": "2019-sp",
+        "faculty": "Michael Bailey"
+    },
+    {
+        "name": "CS 463",
+        "title": "Computer Security II",
+        "semester": "2019-sp",
+        "faculty": "Carl Gunter"
+    },
+    {
+        "name": "CS 465",
+        "title": "User Interface Design",
+        "semester": "2019-sp",
+        "faculty": "Alex Kirlik"
+    },
+    {
+        "name": "CS 466",
+        "title": "Introduction to Bioinformatics",
+        "semester": "2019-sp",
+        "faculty": "Jian Peng"
+    },
+    {
+        "name": "CS 467",
+        "title": "Social Visualization",
+        "semester": "2019-sp",
+        "faculty": "Karrie Karahalios"
+    },
+    {
+        "name": "CS 477",
+        "title": "Formal Software Devel Methods",
+        "semester": "2019-sp",
+        "faculty": "Madhusudan Parthasarathy"
+    },
+    {
+        "name": "CS 484",
+        "title": "Parallel Programming",
+        "semester": "2019-sp",
+        "faculty": "Laxmikant V. Kale"
+    },
+    {
+        "name": "CS 498",
+        "title": "Algorithms for Big Data",
+        "semester": "2019-sp",
+        "faculty": "Chandra Sekhar Chekuri"
+    },
+    {
+        "name": "CS 498",
+        "title": "Applied Machine Learning",
+        "semester": "2019-sp",
+        "faculty": "Walker Trevor A"
+    },
+    {
+        "name": "CS 498",
+        "title": "Cloud Computing Applications",
+        "semester": "2019-sp",
+        "faculty": "Farivar Reza"
+    },
+    {
+        "name": "CS 498",
+        "title": "Data Science & Analytics",
+        "semester": "2019-sp",
+        "faculty": "Roy H. Campbell"
+    },
+    {
+        "name": "CS 498",
+        "title": "Internet of Things",
+        "semester": "2019-sp",
+        "faculty": "Matthew Caesar"
+    },
+    {
+        "name": "CS 498",
+        "title": "Audio Computing Lab",
+        "semester": "2019-sp",
+        "faculty": "Paris Smaragdis"
+    },
+    {
+        "name": "CS 498",
+        "title": "Art and Science of Web Prog",
+        "semester": "2019-sp",
+        "faculty": "Ranjitha Kumar"
+    },
+    {
+        "name": "CS 498",
+        "title": "Virtual Reality",
+        "semester": "2019-sp",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 512",
+        "title": "Data Mining Principles",
+        "semester": "2019-sp",
+        "faculty": "Jiawei Han"
+    },
+    {
+        "name": "CS 527",
+        "title": "Topics in Software Engineering",
+        "semester": "2019-sp",
+        "faculty": "Tao Xie"
+    },
+    {
+        "name": "CS 533",
+        "title": "Parallel Computer Architecture",
+        "semester": "2019-sp",
+        "faculty": "Josep Torrellas"
+    },
+    {
+        "name": "CS 538",
+        "title": "Advanced Computer Networks",
+        "semester": "2019-sp",
+        "faculty": "Philip B. Godfrey"
+    },
+    {
+        "name": "CS 555",
+        "title": "Numerical Methods for PDEs",
+        "semester": "2019-sp",
+        "faculty": "Paul Fischer"
+    },
+    {
+        "name": "CS 579",
+        "title": "Computational Complexity",
+        "semester": "2019-sp",
+        "faculty": "Michael A. Forbes"
+    },
+    {
+        "name": "CS 598",
+        "title": "Stat Reinforcement lrng",
+        "semester": "2019-sp",
+        "faculty": "Nan Jiang"
+    },
+    {
+        "name": "CS 100",
+        "title": "Freshman Orientation",
+        "semester": "2018-fa",
+        "faculty": "Elsa Gunter"
+    },
+    {
+        "name": "CS 101",
+        "title": "Intro Computing: Engrg & Sci",
+        "semester": "2018-fa",
+        "faculty": "Neal E. Davis"
+    },
+    {
+        "name": "CS 105",
+        "title": "Intro Computing: Non-Tech",
+        "semester": "2018-fa",
+        "faculty": "Albert Fred Harris III"
+    },
+    {
+        "name": "CS 125",
+        "title": "Intro to Computer Science",
+        "semester": "2018-fa",
+        "faculty": "Geoffrey Werner Challen"
+    },
+    {
+        "name": "CS 126",
+        "title": "Software Design Studio",
+        "semester": "2018-fa",
+        "faculty": "Graham Carl Evans"
+    },
+    {
+        "name": "CS 173",
+        "title": "Discrete Structures",
+        "semester": "2018-fa",
+        "faculty": "Tandy Warnow"
+    },
+    {
+        "name": "CS 173",
+        "title": "Discrete Structures",
+        "semester": "2018-fa",
+        "faculty": "Graham Carl Evans"
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "semester": "2018-fa",
+        "faculty": "Geoffrey Werner Challen"
+    },
+    {
+        "name": "CS 199",
+        "title": "Real World Cases Scient Comput",
+        "semester": "2018-fa",
+        "faculty": "Mariana Silva"
+    },
+    {
+        "name": "CS 210",
+        "title": "Ethical & Professional Issues",
+        "semester": "2018-fa",
+        "faculty": "Ryan Matthew Cunningham"
+    },
+    {
+        "name": "CS 225",
+        "title": "Data Structures",
+        "semester": "2018-fa",
+        "faculty": "Wade A. Fagen-Ulmschneider"
+    },
+    {
+        "name": "CS 233",
+        "title": "Computer Architecture",
+        "semester": "2018-fa",
+        "faculty": "Geoffrey Lindsay Herman"
+    },
+    {
+        "name": "CS 241",
+        "title": "System Programming",
+        "semester": "2018-fa",
+        "faculty": "Lawrence Christopher Angrave"
+    },
+    {
+        "name": "CS 242",
+        "title": "Programming Studio",
+        "semester": "2018-fa",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 296",
+        "title": "Honors Course",
+        "semester": "2018-fa",
+        "faculty": "Wade A. Fagen-Ulmschneider"
+    },
+    {
+        "name": "CS 357",
+        "title": "Numerical Methods I",
+        "semester": "2018-fa",
+        "faculty": "Mariana Silva"
+    },
+    {
+        "name": "CS 361",
+        "title": "Prob & Stat for Computer Sci",
+        "semester": "2018-fa",
+        "faculty": "Varodayan David"
+    },
+    {
+        "name": "CS 374",
+        "title": "Intro to Algs & Models of Comp",
+        "semester": "2018-fa",
+        "faculty": "Chandra Sekhar Chekuri"
+    },
+    {
+        "name": "CS 374",
+        "title": "Intro to Algs & Models of Comp",
+        "semester": "2018-fa",
+        "faculty": "Nikita Borisov"
+    },
+    {
+        "name": "CS 410",
+        "title": "Text Information Systems",
+        "semester": "2018-fa",
+        "faculty": "ChengXiang Zhai"
+    },
+    {
+        "name": "CS 411",
+        "title": "Database Systems",
+        "semester": "2018-fa",
+        "faculty": "Abdussalam Alawini"
+    },
+    {
+        "name": "CS 412",
+        "title": "Introduction to Data Mining",
+        "semester": "2018-fa",
+        "faculty": "Li Qi"
+    },
+    {
+        "name": "CS 418",
+        "title": "Interactive Computer Graphics",
+        "semester": "2018-fa",
+        "faculty": "John C. Hart"
+    },
+    {
+        "name": "CS 419",
+        "title": "Production Computer Graphics",
+        "semester": "2018-fa",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 421",
+        "title": "Progrmg Languages & Compilers",
+        "semester": "2018-fa",
+        "faculty": "Sasa Misailovic"
+    },
+    {
+        "name": "CS 421",
+        "title": "Progrmg Languages & Compilers",
+        "semester": "2018-fa",
+        "faculty": "Madhusudan Parthasarathy"
+    },
+    {
+        "name": "CS 424",
+        "title": "Real-Time Systems",
+        "semester": "2018-fa",
+        "faculty": "Lui Sha"
+    },
+    {
+        "name": "CS 425",
+        "title": "Distributed Systems",
+        "semester": "2018-fa",
+        "faculty": "Indranil Gupta"
+    },
+    {
+        "name": "CS 427",
+        "title": "Software Engineering I",
+        "semester": "2018-fa",
+        "faculty": "Tao Xie"
+    },
+    {
+        "name": "CS 433",
+        "title": "Computer System Organization",
+        "semester": "2018-fa",
+        "faculty": "Sarita V. Adve"
+    },
+    {
+        "name": "CS 438",
+        "title": "Communication Networks",
+        "semester": "2018-fa",
+        "faculty": "Romit Roy Choudhury"
+    },
+    {
+        "name": "CS 440",
+        "title": "Artificial Intelligence",
+        "semester": "2018-fa",
+        "faculty": "Margaret M. Fleck"
+    },
+    {
+        "name": "CS 446",
+        "title": "Machine Learning",
+        "semester": "2018-fa",
+        "faculty": "Koyejo Oluwasanmi O"
+    },
+    {
+        "name": "CS 447",
+        "title": "Natural Language Processing",
+        "semester": "2018-fa",
+        "faculty": "Julia Constanze Hockenmaier"
+    },
+    {
+        "name": "CS 450",
+        "title": "Numerical Analysis",
+        "semester": "2018-fa",
+        "faculty": "Edgar Solomonik"
+    },
+    {
+        "name": "CS 461",
+        "title": "Computer Security I",
+        "semester": "2018-fa",
+        "faculty": "Ryan Matthew Cunningham"
+    },
+    {
+        "name": "CS 461",
+        "title": "Computer Security I",
+        "semester": "2018-fa",
+        "faculty": "Michael Bailey"
+    },
+    {
+        "name": "CS 465",
+        "title": "User Interface Design",
+        "semester": "2018-fa",
+        "faculty": "Brian P. Bailey"
+    },
+    {
+        "name": "CS 466",
+        "title": "Introduction to Bioinformatics",
+        "semester": "2018-fa",
+        "faculty": "El-Kebir M  ohammed"
+    },
+    {
+        "name": "CS 473",
+        "title": "Algorithms",
+        "semester": "2018-fa",
+        "faculty": "Sariel Har-Peled"
+    },
+    {
+        "name": "CS 484",
+        "title": "Parallel Programming",
+        "semester": "2018-fa",
+        "faculty": "Laxmikant V. Kale"
+    },
+    {
+        "name": "CS 498",
+        "title": "Digital Forensics",
+        "semester": "2018-fa",
+        "faculty": "Roy H. Campbell"
+    },
+    {
+        "name": "CS 498",
+        "title": "Applied Machine Learning",
+        "semester": "2018-fa",
+        "faculty": "Walker Trevor A"
+    },
+    {
+        "name": "CS 498",
+        "title": "Applied Machine Learning",
+        "semester": "2018-fa",
+        "faculty": "David Forsyth"
+    },
+    {
+        "name": "CS 498",
+        "title": "Cyber Dystopia",
+        "semester": "2018-fa",
+        "faculty": "Carl Gunter"
+    },
+    {
+        "name": "CS 498",
+        "title": "Cloud Networking",
+        "semester": "2018-fa",
+        "faculty": "Philip B. Godfrey"
+    },
+    {
+        "name": "CS 498",
+        "title": "Introduction to Deep Learning",
+        "semester": "2018-fa",
+        "faculty": "Svetlana Lazebnik"
+    },
+    {
+        "name": "CS 498",
+        "title": "Computational Advertising",
+        "semester": "2018-fa",
+        "faculty": "Hari Sundaram"
+    },
+    {
+        "name": "CS 498",
+        "title": "Experimental Methods for HCI",
+        "semester": "2018-fa",
+        "faculty": "Alex Kirlik"
+    },
+    {
+        "name": "CS 498",
+        "title": "Virtual Reality",
+        "semester": "2018-fa",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 510",
+        "title": "Advanced Information Retrieval",
+        "semester": "2018-fa",
+        "faculty": "ChengXiang Zhai"
+    },
+    {
+        "name": "CS 548",
+        "title": "Models of Cognitive Processes",
+        "semester": "2018-fa",
+        "faculty": "Fu Wai-Tat"
+    },
+    {
+        "name": "CS 563",
+        "title": "Advanced Computer Security",
+        "semester": "2018-fa",
+        "faculty": "Adam Bates"
+    },
+    {
+        "name": "CS 598",
+        "title": "Foundations of Data Curation",
+        "semester": "2018-fa",
+        "faculty": "Renear Allen H"
+    },
+    {
+        "name": "CS 598",
+        "title": "Lang/Abst f High-Perf Sci Comp",
+        "semester": "2018-fa",
+        "faculty": "Andreas Paul Eberhard Kloeckner"
+    },
+    {
+        "name": "CS 598",
+        "title": "Adversarial Machine Learning",
+        "semester": "2018-fa",
+        "faculty": "Bo Li"
+    },
+    {
+        "name": "CS 598",
+        "title": "Deep Learning",
+        "semester": "2018-fa",
+        "faculty": "Sirignano Justin A"
+    },
+    {
+        "name": "CS 598",
+        "title": "Advanced Bayesian Modeling",
+        "semester": "2018-fa",
+        "faculty": "Park Trevor H"
+    },
+    {
+        "name": "CS 598",
+        "title": "Machine Lrning Computation Bio",
+        "semester": "2018-fa",
+        "faculty": "Jian Peng"
+    },
+    {
+        "name": "CS 598",
+        "title": "Social Spaces on the Internet",
+        "semester": "2018-fa",
+        "faculty": "Karrie Karahalios"
+    },
+    {
+        "name": "CS 598",
+        "title": "Statistical Reinforcement",
+        "semester": "2018-fa",
+        "faculty": "Nan Jiang"
+    },
+    {
+        "name": "CS 598",
+        "title": "Mach Lrng for Signal Processng",
+        "semester": "2018-fa",
+        "faculty": "Paris Smaragdis"
+    },
+    {
+        "name": "CS 598",
+        "title": "Practical Statistical Learning",
+        "semester": "2018-fa",
+        "faculty": "Liang Feng"
+    },
+    {
+        "name": "CS 598",
+        "title": "HCI for ML",
+        "semester": "2018-fa",
+        "faculty": "Ranjitha Kumar"
+    },
+    {
+        "name": "CS 598",
+        "title": "Realiablity of Cloud-Scale Sys",
+        "semester": "2018-fa",
+        "faculty": "Tianyin Xu"
+    },
+    {
+        "name": "CS 101",
+        "title": "Intro Computing: Engrg & Sci",
+        "semester": "2018-sp",
+        "faculty": "Neal E. Davis"
+    },
+    {
+        "name": "CS 105",
+        "title": "Intro Computing: Non-Tech",
+        "semester": "2018-sp",
+        "faculty": "Albert Fred Harris III"
+    },
+    {
+        "name": "CS 125",
+        "title": "Intro to Computer Science",
+        "semester": "2018-sp",
+        "faculty": "Geoffrey Werner Challen"
+    },
+    {
+        "name": "CS 126",
+        "title": "Software Design Studio",
+        "semester": "2018-sp",
+        "faculty": "Graham Carl Evans"
+    },
+    {
+        "name": "CS 173",
+        "title": "Discrete Structures",
+        "semester": "2018-sp",
+        "faculty": "Margaret M. Fleck"
+    },
+    {
+        "name": "CS 173",
+        "title": "Discrete Structures",
+        "semester": "2018-sp",
+        "faculty": "Jose Meseguer"
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "semester": "2018-sp",
+        "faculty": "Geoffrey Werner Challen"
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "semester": "2018-sp",
+        "faculty": "Margaret M. Fleck"
+    },
+    {
+        "name": "CS 210",
+        "title": "Ethical & Professional Issues",
+        "semester": "2018-sp",
+        "faculty": "Ryan Matthew Cunningham"
+    },
+    {
+        "name": "CS 225",
+        "title": "Data Structures",
+        "semester": "2018-sp",
+        "faculty": "Wade A. Fagen-Ulmschneider"
+    },
+    {
+        "name": "CS 233",
+        "title": "Computer Architecture",
+        "semester": "2018-sp",
+        "faculty": "Geoffrey Lindsay Herman"
+    },
+    {
+        "name": "CS 241",
+        "title": "System Programming",
+        "semester": "2018-sp",
+        "faculty": "Lawrence Christopher Angrave"
+    },
+    {
+        "name": "CS 242",
+        "title": "Programming Studio",
+        "semester": "2018-sp",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 296",
+        "title": "Honors Course",
+        "semester": "2018-sp",
+        "faculty": "Wade A. Fagen-Ulmschneider"
+    },
+    {
+        "name": "CS 357",
+        "title": "Numerical Methods I",
+        "semester": "2018-sp",
+        "faculty": "Mariana Silva"
+    },
+    {
+        "name": "CS 361",
+        "title": "Prob & Stat for Computer Sci",
+        "semester": "2018-sp",
+        "faculty": "Barber Richard C"
+    },
+    {
+        "name": "CS 374",
+        "title": "Intro to Algs & Models of Comp",
+        "semester": "2018-sp",
+        "faculty": "Jeff G. Erickson"
+    },
+    {
+        "name": "CS 374",
+        "title": "Intro to Algs & Models of Comp",
+        "semester": "2018-sp",
+        "faculty": "Mahesh Viswanathan"
+    },
+    {
+        "name": "CS 398",
+        "title": "Applied Cloud Computing",
+        "semester": "2018-sp",
+        "faculty": "Robert J. Brunner"
+    },
+    {
+        "name": "CS 410",
+        "title": "Text Information Systems",
+        "semester": "2018-sp",
+        "faculty": "ChengXiang Zhai"
+    },
+    {
+        "name": "CS 411",
+        "title": "Database Systems",
+        "semester": "2018-sp",
+        "faculty": "Kevin Chen-Chuan Chang"
+    },
+    {
+        "name": "CS 411",
+        "title": "Database Systems",
+        "semester": "2018-sp",
+        "faculty": "Parameswaran Aditya G"
+    },
+    {
+        "name": "CS 412",
+        "title": "Introduction to Data Mining",
+        "semester": "2018-sp",
+        "faculty": "Jiawei Han"
+    },
+    {
+        "name": "CS 412",
+        "title": "Introduction to Data Mining",
+        "semester": "2018-sp",
+        "faculty": "Hari Sundaram"
+    },
+    {
+        "name": "CS 418",
+        "title": "Interactive Computer Graphics",
+        "semester": "2018-sp",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 421",
+        "title": "Progrmg Languages & Compilers",
+        "semester": "2018-sp",
+        "faculty": "Mattox Alan Beckman"
+    },
+    {
+        "name": "CS 423",
+        "title": "Operating Systems Design",
+        "semester": "2018-sp",
+        "faculty": "Adam Bates"
+    },
+    {
+        "name": "CS 425",
+        "title": "Distributed Systems",
+        "semester": "2018-sp",
+        "faculty": "Vaidya Nitin H"
+    },
+    {
+        "name": "CS 429",
+        "title": "Software Engineering II ACP",
+        "semester": "2018-sp",
+        "faculty": "Darko Marinov"
+    },
+    {
+        "name": "CS 431",
+        "title": "Embedded Systems",
+        "semester": "2018-sp",
+        "faculty": "Lui Sha"
+    },
+    {
+        "name": "CS 433",
+        "title": "Computer System Organization",
+        "semester": "2018-sp",
+        "faculty": "Christopher Wardlaw Fletcher"
+    },
+    {
+        "name": "CS 438",
+        "title": "Communication Networks",
+        "semester": "2018-sp",
+        "faculty": "Robin Hillary Kravets"
+    },
+    {
+        "name": "CS 440",
+        "title": "Artificial Intelligence",
+        "semester": "2018-sp",
+        "faculty": "Mark Hasegawa-Johnson"
+    },
+    {
+        "name": "CS 446",
+        "title": "Machine Learning",
+        "semester": "2018-sp",
+        "faculty": "Matus Jan Telgarsky"
+    },
+    {
+        "name": "CS 450",
+        "title": "Numerical Analysis",
+        "semester": "2018-sp",
+        "faculty": "Edgar Solomonik"
+    },
+    {
+        "name": "CS 460",
+        "title": "Security Laboratory",
+        "semester": "2018-sp",
+        "faculty": "Bambenek John C"
+    },
+    {
+        "name": "CS 461",
+        "title": "Computer Security I",
+        "semester": "2018-sp",
+        "faculty": "Michael Bailey"
+    },
+    {
+        "name": "CS 463",
+        "title": "Computer Security II",
+        "semester": "2018-sp",
+        "faculty": "Carl Gunter"
+    },
+    {
+        "name": "CS 465",
+        "title": "User Interface Design",
+        "semester": "2018-sp",
+        "faculty": "Fu Wai-Tat"
+    },
+    {
+        "name": "CS 466",
+        "title": "Introduction to Bioinformatics",
+        "semester": "2018-sp",
+        "faculty": "Jian Peng"
+    },
+    {
+        "name": "CS 473",
+        "title": "Algorithms",
+        "semester": "2018-sp",
+        "faculty": "Ruta Mehta"
+    },
+    {
+        "name": "CS 477",
+        "title": "Formal Software Devel Methods",
+        "semester": "2018-sp",
+        "faculty": "Elsa Gunter"
+    },
+    {
+        "name": "CS 492",
+        "title": "Senior Project I",
+        "semester": "2018-sp",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 498",
+        "title": "Applied Machine Learning",
+        "semester": "2018-sp",
+        "faculty": "David Forsyth"
+    },
+    {
+        "name": "CS 498",
+        "title": "Cloud Computing Applications",
+        "semester": "2018-sp",
+        "faculty": "Farivar Reza"
+    },
+    {
+        "name": "CS 498",
+        "title": "Learning and Computer Science",
+        "semester": "2018-sp",
+        "faculty": "Geoffrey Lindsay Herman"
+    },
+    {
+        "name": "CS 498",
+        "title": "Audio Computing Lab",
+        "semester": "2018-sp",
+        "faculty": "Paris Smaragdis"
+    },
+    {
+        "name": "CS 498",
+        "title": "Virtual Reality",
+        "semester": "2018-sp",
+        "faculty": "Lawrence Christopher Angrave"
+    },
+    {
+        "name": "CS 512",
+        "title": "Data Mining Principles",
+        "semester": "2018-sp",
+        "faculty": "Jiawei Han"
+    },
+    {
+        "name": "CS 525",
+        "title": "Advanced Distributed Systems",
+        "semester": "2018-sp",
+        "faculty": "Indranil Gupta"
+    },
+    {
+        "name": "CS 538",
+        "title": "Advanced Computer Networks",
+        "semester": "2018-sp",
+        "faculty": "Philip B. Godfrey"
+    },
+    {
+        "name": "CS 546",
+        "title": "Machine Learning in NLP",
+        "semester": "2018-sp",
+        "faculty": "Julia Constanze Hockenmaier"
+    },
+    {
+        "name": "CS 555",
+        "title": "Numerical Methods for PDEs",
+        "semester": "2018-sp",
+        "faculty": "Paul Fischer"
+    },
+    {
+        "name": "CS 583",
+        "title": "Approximation Algorithms",
+        "semester": "2018-sp",
+        "faculty": "Chandra Sekhar Chekuri"
+    },
+    {
+        "name": "CS 100",
+        "title": "Freshman Orientation",
+        "semester": "2017-fa",
+        "faculty": "Leonard B. Pitt"
+    },
+    {
+        "name": "CS 101",
+        "title": "Intro Computing: Engrg & Sci",
+        "semester": "2017-fa",
+        "faculty": "Neal E. Davis"
+    },
+    {
+        "name": "CS 105",
+        "title": "Intro Computing: Non-Tech",
+        "semester": "2017-fa",
+        "faculty": "Albert Fred Harris III"
+    },
+    {
+        "name": "CS 125",
+        "title": "Intro to Computer Science",
+        "semester": "2017-fa",
+        "faculty": "Lawrence Christopher Angrave"
+    },
+    {
+        "name": "CS 126",
+        "title": "Software Design Studio",
+        "semester": "2017-fa",
+        "faculty": "Craig Zilles"
+    },
+    {
+        "name": "CS 173",
+        "title": "Discrete Structures",
+        "semester": "2017-fa",
+        "faculty": "Margaret M. Fleck"
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "semester": "2017-fa",
+        "faculty": "Geoffrey Werner Challen"
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "semester": "2017-fa",
+        "faculty": "Margaret M. Fleck"
+    },
+    {
+        "name": "CS 199",
+        "title": "De-Bug your Brain",
+        "semester": "2017-fa",
+        "faculty": "Lawrence Christopher Angrave"
+    },
+    {
+        "name": "CS 210",
+        "title": "Ethical & Professional Issues",
+        "semester": "2017-fa",
+        "faculty": "Ryan Matthew Cunningham"
+    },
+    {
+        "name": "CS 225",
+        "title": "Data Structures",
+        "semester": "2017-fa",
+        "faculty": "Wade A. Fagen-Ulmschneider"
+    },
+    {
+        "name": "CS 233",
+        "title": "Computer Architecture",
+        "semester": "2017-fa",
+        "faculty": "Geoffrey Lindsay Herman"
+    },
+    {
+        "name": "CS 241",
+        "title": "System Programming",
+        "semester": "2017-fa",
+        "faculty": "Graham Carl Evans"
+    },
+    {
+        "name": "CS 242",
+        "title": "Programming Studio",
+        "semester": "2017-fa",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 296",
+        "title": "Honors Course",
+        "semester": "2017-fa",
+        "faculty": "Wade A. Fagen-Ulmschneider"
+    },
+    {
+        "name": "CS 296",
+        "title": "Honors Course",
+        "semester": "2017-fa",
+        "faculty": "Craig Zilles"
+    },
+    {
+        "name": "CS 357",
+        "title": "Numerical Methods I",
+        "semester": "2017-fa",
+        "faculty": "Luke Olson"
+    },
+    {
+        "name": "CS 361",
+        "title": "Prob & Stat for Computer Sci",
+        "semester": "2017-fa",
+        "faculty": "Barber Richard C"
+    },
+    {
+        "name": "CS 374",
+        "title": "Intro to Algs & Models of Comp",
+        "semester": "2017-fa",
+        "faculty": "Sariel Har-Peled"
+    },
+    {
+        "name": "CS 410",
+        "title": "Text Information Systems",
+        "semester": "2017-fa",
+        "faculty": "ChengXiang Zhai"
+    },
+    {
+        "name": "CS 411",
+        "title": "Database Systems",
+        "semester": "2017-fa",
+        "faculty": "Kevin Chen-Chuan Chang"
+    },
+    {
+        "name": "CS 412",
+        "title": "Introduction to Data Mining",
+        "semester": "2017-fa",
+        "faculty": "Jiawei Han"
+    },
+    {
+        "name": "CS 418",
+        "title": "Interactive Computer Graphics",
+        "semester": "2017-fa",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 420",
+        "title": "Parallel Progrmg: Sci & Engrg",
+        "semester": "2017-fa",
+        "faculty": "Marc Snir"
+    },
+    {
+        "name": "CS 421",
+        "title": "Progrmg Languages & Compilers",
+        "semester": "2017-fa",
+        "faculty": "Sasa Misailovic"
+    },
+    {
+        "name": "CS 421",
+        "title": "Progrmg Languages & Compilers",
+        "semester": "2017-fa",
+        "faculty": "Elsa Gunter"
+    },
+    {
+        "name": "CS 424",
+        "title": "Real-Time Systems",
+        "semester": "2017-fa",
+        "faculty": "Tarek Abdelzaher"
+    },
+    {
+        "name": "CS 425",
+        "title": "Distributed Systems",
+        "semester": "2017-fa",
+        "faculty": "Indranil Gupta"
+    },
+    {
+        "name": "CS 427",
+        "title": "Software Engineering I",
+        "semester": "2017-fa",
+        "faculty": "Grigore Rosu"
+    },
+    {
+        "name": "CS 431",
+        "title": "Embedded Systems",
+        "semester": "2017-fa",
+        "faculty": "Marco Caccamo"
+    },
+    {
+        "name": "CS 433",
+        "title": "Computer System Organization",
+        "semester": "2017-fa",
+        "faculty": "Josep Torrellas"
+    },
+    {
+        "name": "CS 438",
+        "title": "Communication Networks",
+        "semester": "2017-fa",
+        "faculty": "Haitham Al-Hassanieh"
+    },
+    {
+        "name": "CS 440",
+        "title": "Artificial Intelligence",
+        "semester": "2017-fa",
+        "faculty": "Svetlana Lazebnik"
+    },
+    {
+        "name": "CS 440",
+        "title": "Artificial Intelligence",
+        "semester": "2017-fa",
+        "faculty": "Mark Hasegawa-Johnson"
+    },
+    {
+        "name": "CS 445",
+        "title": "Computational Photography",
+        "semester": "2017-fa",
+        "faculty": "Derek W. Hoiem"
+    },
+    {
+        "name": "CS 446",
+        "title": "Machine Learning",
+        "semester": "2017-fa",
+        "faculty": "Koyejo Oluwasanmi O"
+    },
+    {
+        "name": "CS 447",
+        "title": "Natural Language Processing",
+        "semester": "2017-fa",
+        "faculty": "Julia Constanze Hockenmaier"
+    },
+    {
+        "name": "CS 450",
+        "title": "Numerical Analysis",
+        "semester": "2017-fa",
+        "faculty": "Paul Fischer"
+    },
+    {
+        "name": "CS 461",
+        "title": "Computer Security I",
+        "semester": "2017-fa",
+        "faculty": "Ryan Matthew Cunningham"
+    },
+    {
+        "name": "CS 465",
+        "title": "User Interface Design",
+        "semester": "2017-fa",
+        "faculty": "Brian P. Bailey"
+    },
+    {
+        "name": "CS 484",
+        "title": "Parallel Programming",
+        "semester": "2017-fa",
+        "faculty": "Laxmikant V. Kale"
+    },
+    {
+        "name": "CS 498",
+        "title": "Digital Forensics",
+        "semester": "2017-fa",
+        "faculty": "Roy H. Campbell"
+    },
+    {
+        "name": "CS 498",
+        "title": "Theory II",
+        "semester": "2017-fa",
+        "faculty": "Timothy Moon-Yew Chan"
+    },
+    {
+        "name": "CS 498",
+        "title": "The Art of Web Programming",
+        "semester": "2017-fa",
+        "faculty": "Ranjitha Kumar"
+    },
+    {
+        "name": "CS 498",
+        "title": "Virtual Reality",
+        "semester": "2017-fa",
+        "faculty": "Yershova Ganna"
+    },
+    {
+        "name": "CS 510",
+        "title": "Advanced Information Retrieval",
+        "semester": "2017-fa",
+        "faculty": "ChengXiang Zhai"
+    },
+    {
+        "name": "CS 519",
+        "title": "Scientific Visualization",
+        "semester": "2017-fa",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 523",
+        "title": "Advanced Operating Systems",
+        "semester": "2017-fa",
+        "faculty": "Roy H. Campbell"
+    },
+    {
+        "name": "CS 527",
+        "title": "Topics in Software Engineering",
+        "semester": "2017-fa",
+        "faculty": "Darko Marinov"
+    },
+    {
+        "name": "CS 548",
+        "title": "Models of Cognitive Processes",
+        "semester": "2017-fa",
+        "faculty": "Fu Wai-Tat"
+    },
+    {
+        "name": "CS 554",
+        "title": "Parallel Numerical Algorithms",
+        "semester": "2017-fa",
+        "faculty": "Edgar Solomonik"
+    },
+    {
+        "name": "CS 598",
+        "title": "Secure Processor Design",
+        "semester": "2017-fa",
+        "faculty": "Christopher Wardlaw Fletcher"
+    },
+    {
+        "name": "CS 598",
+        "title": "Advanced Bayesian Modeling",
+        "semester": "2017-fa",
+        "faculty": "Park Trevor H"
+    },
+    {
+        "name": "CS 598",
+        "title": "Adv Social&Information Network",
+        "semester": "2017-fa",
+        "faculty": "Hari Sundaram"
+    },
+    {
+        "name": "CS 598",
+        "title": "Mach Lrng for Signal Processng",
+        "semester": "2017-fa",
+        "faculty": "Paris Smaragdis"
+    },
+    {
+        "name": "CS 598",
+        "title": "Machine Learning Theory",
+        "semester": "2017-fa",
+        "faculty": "Matus Jan Telgarsky"
+    },
+    {
+        "name": "CS 101",
+        "title": "Intro Computing: Engrg & Sci",
+        "semester": "2017-sp",
+        "faculty": "Neal E. Davis"
+    },
+    {
+        "name": "CS 105",
+        "title": "Intro Computing: Non-Tech",
+        "semester": "2017-sp",
+        "faculty": "Haberman Michael"
+    },
+    {
+        "name": "CS 125",
+        "title": "Intro to Computer Science",
+        "semester": "2017-sp",
+        "faculty": "Chapman William L"
+    },
+    {
+        "name": "CS 126",
+        "title": "Software Design Studio",
+        "semester": "2017-sp",
+        "faculty": "Lawrence Christopher Angrave"
+    },
+    {
+        "name": "CS 173",
+        "title": "Discrete Structures",
+        "semester": "2017-sp",
+        "faculty": "Margaret M. Fleck"
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "semester": "2017-sp",
+        "faculty": "Chapman William L"
+    },
+    {
+        "name": "CS 199",
+        "title": "Undergraduate Open Seminar",
+        "semester": "2017-sp",
+        "faculty": "Heeren Cinda"
+    },
+    {
+        "name": "CS 210",
+        "title": "Ethical & Professional Issues",
+        "semester": "2017-sp",
+        "faculty": "Ryan Matthew Cunningham"
+    },
+    {
+        "name": "CS 225",
+        "title": "Data Structures",
+        "semester": "2017-sp",
+        "faculty": "Heeren Cinda"
+    },
+    {
+        "name": "CS 233",
+        "title": "Computer Architecture",
+        "semester": "2017-sp",
+        "faculty": "Geoffrey Lindsay Herman"
+    },
+    {
+        "name": "CS 241",
+        "title": "System Programming",
+        "semester": "2017-sp",
+        "faculty": "Graham Carl Evans"
+    },
+    {
+        "name": "CS 242",
+        "title": "Programming Studio",
+        "semester": "2017-sp",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 296",
+        "title": "Honors Course",
+        "semester": "2017-sp",
+        "faculty": "Heeren Cinda"
+    },
+    {
+        "name": "CS 296",
+        "title": "Honors Course",
+        "semester": "2017-sp",
+        "faculty": "Lawrence Christopher Angrave"
+    },
+    {
+        "name": "CS 357",
+        "title": "Numerical Methods I",
+        "semester": "2017-sp",
+        "faculty": "Andreas Paul Eberhard Kloeckner"
+    },
+    {
+        "name": "CS 361",
+        "title": "Prob & Stat for Computer Sci",
+        "semester": "2017-sp",
+        "faculty": "Saurabh Sinha"
+    },
+    {
+        "name": "CS 374",
+        "title": "Intro to Algs & Models of Comp",
+        "semester": "2017-sp",
+        "faculty": "Chandra Sekhar Chekuri"
+    },
+    {
+        "name": "CS 410",
+        "title": "Text Information Systems",
+        "semester": "2017-sp",
+        "faculty": "ChengXiang Zhai"
+    },
+    {
+        "name": "CS 411",
+        "title": "Database Systems",
+        "semester": "2017-sp",
+        "faculty": "Parameswaran Aditya G"
+    },
+    {
+        "name": "CS 412",
+        "title": "Introduction to Data Mining",
+        "semester": "2017-sp",
+        "faculty": "Jiawei Han"
+    },
+    {
+        "name": "CS 412",
+        "title": "Introduction to Data Mining",
+        "semester": "2017-sp",
+        "faculty": "Hari Sundaram"
+    },
+    {
+        "name": "CS 418",
+        "title": "Interactive Computer Graphics",
+        "semester": "2017-sp",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 419",
+        "title": "Production Computer Graphics",
+        "semester": "2017-sp",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 421",
+        "title": "Progrmg Languages & Compilers",
+        "semester": "2017-sp",
+        "faculty": "Mattox Alan Beckman"
+    },
+    {
+        "name": "CS 423",
+        "title": "Operating Systems Design",
+        "semester": "2017-sp",
+        "faculty": "Adam Bates"
+    },
+    {
+        "name": "CS 425",
+        "title": "Distributed Systems",
+        "semester": "2017-sp",
+        "faculty": "Nikita Borisov"
+    },
+    {
+        "name": "CS 429",
+        "title": "Software Engineering II ACP",
+        "semester": "2017-sp",
+        "faculty": "Tao Xie"
+    },
+    {
+        "name": "CS 431",
+        "title": "Embedded Systems",
+        "semester": "2017-sp",
+        "faculty": "Lui Sha"
+    },
+    {
+        "name": "CS 433",
+        "title": "Computer System Organization",
+        "semester": "2017-sp",
+        "faculty": "Sarita V. Adve"
+    },
+    {
+        "name": "CS 438",
+        "title": "Communication Networks",
+        "semester": "2017-sp",
+        "faculty": "Robin Hillary Kravets"
+    },
+    {
+        "name": "CS 440",
+        "title": "Artificial Intelligence",
+        "semester": "2017-sp",
+        "faculty": "Gerald F. DeJong II"
+    },
+    {
+        "name": "CS 446",
+        "title": "Machine Learning",
+        "semester": "2017-sp",
+        "faculty": "Roth Dan"
+    },
+    {
+        "name": "CS 450",
+        "title": "Numerical Analysis",
+        "semester": "2017-sp",
+        "faculty": "Paul Fischer"
+    },
+    {
+        "name": "CS 460",
+        "title": "Security Laboratory",
+        "semester": "2017-sp",
+        "faculty": "Bambenek John C"
+    },
+    {
+        "name": "CS 461",
+        "title": "Computer Security I",
+        "semester": "2017-sp",
+        "faculty": "Michael Bailey"
+    },
+    {
+        "name": "CS 463",
+        "title": "Computer Security II",
+        "semester": "2017-sp",
+        "faculty": "Carl Gunter"
+    },
+    {
+        "name": "CS 465",
+        "title": "User Interface Design",
+        "semester": "2017-sp",
+        "faculty": "Fu Wai-Tat"
+    },
+    {
+        "name": "CS 466",
+        "title": "Introduction to Bioinformatics",
+        "semester": "2017-sp",
+        "faculty": "Tandy Warnow"
+    },
+    {
+        "name": "CS 484",
+        "title": "Parallel Programming",
+        "semester": "2017-sp",
+        "faculty": "Laxmikant V. Kale"
+    },
+    {
+        "name": "CS 492",
+        "title": "Senior Project I",
+        "semester": "2017-sp",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 493",
+        "title": "Senior Project II ACP",
+        "semester": "2017-sp",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 498",
+        "title": "Applied Machine Learning",
+        "semester": "2017-sp",
+        "faculty": "David Forsyth"
+    },
+    {
+        "name": "CS 498",
+        "title": "Theory II",
+        "semester": "2017-sp",
+        "faculty": "Jeff G. Erickson"
+    },
+    {
+        "name": "CS 498",
+        "title": "Cloud Computing Applications",
+        "semester": "2017-sp",
+        "faculty": "Roy H. Campbell"
+    },
+    {
+        "name": "CS 498",
+        "title": "Virtual Reality",
+        "semester": "2017-sp",
+        "faculty": "Steven M. LaValle"
+    },
+    {
+        "name": "CS 511",
+        "title": "Advanced Data Management",
+        "semester": "2017-sp",
+        "faculty": "Kevin Chen-Chuan Chang"
+    },
+    {
+        "name": "CS 512",
+        "title": "Data Mining Principles",
+        "semester": "2017-sp",
+        "faculty": "Jiawei Han"
+    },
+    {
+        "name": "CS 525",
+        "title": "Advanced Distributed Systems",
+        "semester": "2017-sp",
+        "faculty": "Indranil Gupta"
+    },
+    {
+        "name": "CS 538",
+        "title": "Advanced Computer Networks",
+        "semester": "2017-sp",
+        "faculty": "Philip B. Godfrey"
+    },
+    {
+        "name": "CS 555",
+        "title": "Numerical Methods for PDEs",
+        "semester": "2017-sp",
+        "faculty": "Luke Olson"
+    },
+    {
+        "name": "CS 565",
+        "title": "Human-Computer Interaction",
+        "semester": "2017-sp",
+        "faculty": "Brian P. Bailey"
+    },
+    {
+        "name": "CS 598",
+        "title": "Autonomous Vehicles for AI",
+        "semester": "2017-sp",
+        "faculty": "David Forsyth"
+    },
+    {
+        "name": "CS 598",
+        "title": "Cutting-Edge Trends In DLR",
+        "semester": "2017-sp",
+        "faculty": "Svetlana Lazebnik"
+    },
+    {
+        "name": "CS 598",
+        "title": "Social Sensing",
+        "semester": "2017-sp",
+        "faculty": "Tarek Abdelzaher"
+    },
+    {
+        "name": "CS 100",
+        "title": "Freshman Orientation",
+        "semester": "2016-fa",
+        "faculty": "Leonard B. Pitt"
+    },
+    {
+        "name": "CS 101",
+        "title": "Intro Computing: Engrg & Sci",
+        "semester": "2016-fa",
+        "faculty": "Neal E. Davis"
+    },
+    {
+        "name": "CS 105",
+        "title": "Intro Computing: Non-Tech",
+        "semester": "2016-fa",
+        "faculty": "Hellwig Martin"
+    },
+    {
+        "name": "CS 125",
+        "title": "Intro to Computer Science",
+        "semester": "2016-fa",
+        "faculty": "Chapman William L"
+    },
+    {
+        "name": "CS 126",
+        "title": "Software Design Studio",
+        "semester": "2016-fa",
+        "faculty": "Craig Zilles"
+    },
+    {
+        "name": "CS 173",
+        "title": "Discrete Structures",
+        "semester": "2016-fa",
+        "faculty": "Margaret M. Fleck"
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "semester": "2016-fa",
+        "faculty": "Chapman William L"
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "semester": "2016-fa",
+        "faculty": "Margaret M. Fleck"
+    },
+    {
+        "name": "CS 199",
+        "title": "Undergraduate Open Seminar",
+        "semester": "2016-fa",
+        "faculty": "Heeren Cinda"
+    },
+    {
+        "name": "CS 210",
+        "title": "Ethical & Professional Issues",
+        "semester": "2016-fa",
+        "faculty": "Ryan Matthew Cunningham"
+    },
+    {
+        "name": "CS 225",
+        "title": "Data Structures",
+        "semester": "2016-fa",
+        "faculty": "Heeren Cinda"
+    },
+    {
+        "name": "CS 233",
+        "title": "Computer Architecture",
+        "semester": "2016-fa",
+        "faculty": "Craig Zilles"
+    },
+    {
+        "name": "CS 241",
+        "title": "System Programming",
+        "semester": "2016-fa",
+        "faculty": "Lawrence Christopher Angrave"
+    },
+    {
+        "name": "CS 242",
+        "title": "Programming Studio",
+        "semester": "2016-fa",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 296",
+        "title": "Honors Course",
+        "semester": "2016-fa",
+        "faculty": "Heeren Cinda"
+    },
+    {
+        "name": "CS 296",
+        "title": "Honors Course",
+        "semester": "2016-fa",
+        "faculty": "Craig Zilles"
+    },
+    {
+        "name": "CS 296",
+        "title": "Honors Course",
+        "semester": "2016-fa",
+        "faculty": "Lawrence Christopher Angrave"
+    },
+    {
+        "name": "CS 357",
+        "title": "Numerical Methods I",
+        "semester": "2016-fa",
+        "faculty": "Andreas Paul Eberhard Kloeckner"
+    },
+    {
+        "name": "CS 361",
+        "title": "Prob & Stat for Computer Sci",
+        "semester": "2016-fa",
+        "faculty": "Jian Peng"
+    },
+    {
+        "name": "CS 374",
+        "title": "Intro to Algs & Models of Comp",
+        "semester": "2016-fa",
+        "faculty": "Jeff G. Erickson"
+    },
+    {
+        "name": "CS 410",
+        "title": "Text Information Systems",
+        "semester": "2016-fa",
+        "faculty": "ChengXiang Zhai"
+    },
+    {
+        "name": "CS 411",
+        "title": "Database Systems",
+        "semester": "2016-fa",
+        "faculty": "Kevin Chen-Chuan Chang"
+    },
+    {
+        "name": "CS 412",
+        "title": "Introduction to Data Mining",
+        "semester": "2016-fa",
+        "faculty": "Jiawei Han"
+    },
+    {
+        "name": "CS 418",
+        "title": "Interactive Computer Graphics",
+        "semester": "2016-fa",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 420",
+        "title": "Parallel Progrmg: Sci & Engrg",
+        "semester": "2016-fa",
+        "faculty": "Marc Snir"
+    },
+    {
+        "name": "CS 421",
+        "title": "Progrmg Languages & Compilers",
+        "semester": "2016-fa",
+        "faculty": "Elsa Gunter"
+    },
+    {
+        "name": "CS 424",
+        "title": "Real-Time Systems",
+        "semester": "2016-fa",
+        "faculty": "Tarek Abdelzaher"
+    },
+    {
+        "name": "CS 425",
+        "title": "Distributed Systems",
+        "semester": "2016-fa",
+        "faculty": "Indranil Gupta"
+    },
+    {
+        "name": "CS 426",
+        "title": "Compiler Construction",
+        "semester": "2016-fa",
+        "faculty": "Vikram Adve"
+    },
+    {
+        "name": "CS 427",
+        "title": "Software Engineering I",
+        "semester": "2016-fa",
+        "faculty": "Grigore Rosu"
+    },
+    {
+        "name": "CS 431",
+        "title": "Embedded Systems",
+        "semester": "2016-fa",
+        "faculty": "Marco Caccamo"
+    },
+    {
+        "name": "CS 433",
+        "title": "Computer System Organization",
+        "semester": "2016-fa",
+        "faculty": "Sarita V. Adve"
+    },
+    {
+        "name": "CS 438",
+        "title": "Communication Networks",
+        "semester": "2016-fa",
+        "faculty": "Nikita Borisov"
+    },
+    {
+        "name": "CS 440",
+        "title": "Artificial Intelligence",
+        "semester": "2016-fa",
+        "faculty": "Svetlana Lazebnik"
+    },
+    {
+        "name": "CS 440",
+        "title": "Artificial Intelligence",
+        "semester": "2016-fa",
+        "faculty": "Mark Hasegawa-Johnson"
+    },
+    {
+        "name": "CS 446",
+        "title": "Machine Learning",
+        "semester": "2016-fa",
+        "faculty": "Roth Dan"
+    },
+    {
+        "name": "CS 450",
+        "title": "Numerical Analysis",
+        "semester": "2016-fa",
+        "faculty": "Michael T. Heath"
+    },
+    {
+        "name": "CS 461",
+        "title": "Computer Security I",
+        "semester": "2016-fa",
+        "faculty": "Michael Bailey"
+    },
+    {
+        "name": "CS 465",
+        "title": "User Interface Design",
+        "semester": "2016-fa",
+        "faculty": "Brian P. Bailey"
+    },
+    {
+        "name": "CS 466",
+        "title": "Introduction to Bioinformatics",
+        "semester": "2016-fa",
+        "faculty": "Saurabh Sinha"
+    },
+    {
+        "name": "CS 492",
+        "title": "Senior Project I",
+        "semester": "2016-fa",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 498",
+        "title": "Digital Forensics",
+        "semester": "2016-fa",
+        "faculty": "Roy H. Campbell"
+    },
+    {
+        "name": "CS 498",
+        "title": "Theory II",
+        "semester": "2016-fa",
+        "faculty": "Chandra Sekhar Chekuri"
+    },
+    {
+        "name": "CS 498",
+        "title": "Social & Information Networks",
+        "semester": "2016-fa",
+        "faculty": "Hari Sundaram"
+    },
+    {
+        "name": "CS 498",
+        "title": "Intro to Data Science",
+        "semester": "2016-fa",
+        "faculty": "Victoria Stodden"
+    },
+    {
+        "name": "CS 498",
+        "title": "The Art of Web Programming",
+        "semester": "2016-fa",
+        "faculty": "Ranjitha Kumar"
+    },
+    {
+        "name": "CS 498",
+        "title": "Virtual Reality",
+        "semester": "2016-fa",
+        "faculty": "Yershova Ganna"
+    },
+    {
+        "name": "CS 519",
+        "title": "Scientific Visualization",
+        "semester": "2016-fa",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 527",
+        "title": "Topics in Software Engineering",
+        "semester": "2016-fa",
+        "faculty": "Darko Marinov"
+    },
+    {
+        "name": "CS 548",
+        "title": "Models of Cognitive Processes",
+        "semester": "2016-fa",
+        "faculty": "Fu Wai-Tat"
+    },
+    {
+        "name": "CS 563",
+        "title": "Advanced Computer Security",
+        "semester": "2016-fa",
+        "faculty": "Carl Gunter"
+    },
+    {
+        "name": "CS 598",
+        "title": "Advanced Information Retrieval",
+        "semester": "2016-fa",
+        "faculty": "ChengXiang Zhai"
+    },
+    {
+        "name": "CS 598",
+        "title": "Graphical Models",
+        "semester": "2016-fa",
+        "faculty": "Koyejo Oluwasanmi O"
+    },
+    {
+        "name": "CS 101",
+        "title": "Intro Computing: Engrg & Sci",
+        "semester": "2016-sp",
+        "faculty": "Ryan Matthew Cunningham"
+    },
+    {
+        "name": "CS 105",
+        "title": "Intro Computing: Non-Tech",
+        "semester": "2016-sp",
+        "faculty": "Hellwig Martin"
+    },
+    {
+        "name": "CS 125",
+        "title": "Intro to Computer Science",
+        "semester": "2016-sp",
+        "faculty": "Chapman William L"
+    },
+    {
+        "name": "CS 173",
+        "title": "Discrete Structures",
+        "semester": "2016-sp",
+        "faculty": "Margaret M. Fleck"
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "semester": "2016-sp",
+        "faculty": "Chapman William L"
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "semester": "2016-sp",
+        "faculty": "Margaret M. Fleck"
+    },
+    {
+        "name": "CS 210",
+        "title": "Ethical & Professional Issues",
+        "semester": "2016-sp",
+        "faculty": "Ryan Matthew Cunningham"
+    },
+    {
+        "name": "CS 225",
+        "title": "Data Structures",
+        "semester": "2016-sp",
+        "faculty": "Heeren Cinda"
+    },
+    {
+        "name": "CS 225",
+        "title": "Data Structures",
+        "semester": "2016-sp",
+        "faculty": "Yershova Ganna"
+    },
+    {
+        "name": "CS 233",
+        "title": "Computer Architecture",
+        "semester": "2016-sp",
+        "faculty": "Craig Zilles"
+    },
+    {
+        "name": "CS 241",
+        "title": "System Programming",
+        "semester": "2016-sp",
+        "faculty": "Lawrence Christopher Angrave"
+    },
+    {
+        "name": "CS 242",
+        "title": "Programming Studio",
+        "semester": "2016-sp",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 296",
+        "title": "Honors Course",
+        "semester": "2016-sp",
+        "faculty": "Heeren Cinda"
+    },
+    {
+        "name": "CS 296",
+        "title": "Honors Course",
+        "semester": "2016-sp",
+        "faculty": "Lawrence Christopher Angrave"
+    },
+    {
+        "name": "CS 357",
+        "title": "Numerical Methods I",
+        "semester": "2016-sp",
+        "faculty": "Michael T. Heath"
+    },
+    {
+        "name": "CS 357",
+        "title": "Numerical Methods I",
+        "semester": "2016-sp",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 410",
+        "title": "Text Information Systems",
+        "semester": "2016-sp",
+        "faculty": "ChengXiang Zhai"
+    },
+    {
+        "name": "CS 411",
+        "title": "Database Systems",
+        "semester": "2016-sp",
+        "faculty": "Parameswaran Aditya G"
+    },
+    {
+        "name": "CS 412",
+        "title": "Introduction to Data Mining",
+        "semester": "2016-sp",
+        "faculty": "Hari Sundaram"
+    },
+    {
+        "name": "CS 418",
+        "title": "Interactive Computer Graphics",
+        "semester": "2016-sp",
+        "faculty": "John C. Hart"
+    },
+    {
+        "name": "CS 419",
+        "title": "Production Computer Graphics",
+        "semester": "2016-sp",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 421",
+        "title": "Progrmg Languages & Compilers",
+        "semester": "2016-sp",
+        "faculty": "Mattox Alan Beckman"
+    },
+    {
+        "name": "CS 423",
+        "title": "Operating Systems Design",
+        "semester": "2016-sp",
+        "faculty": "Tarek Abdelzaher"
+    },
+    {
+        "name": "CS 425",
+        "title": "Distributed Systems",
+        "semester": "2016-sp",
+        "faculty": "Vaidya Nitin H"
+    },
+    {
+        "name": "CS 428",
+        "title": "Software Engineering II",
+        "semester": "2016-sp",
+        "faculty": "Tao Xie"
+    },
+    {
+        "name": "CS 429",
+        "title": "Software Engineering II ACP",
+        "semester": "2016-sp",
+        "faculty": "Tao Xie"
+    },
+    {
+        "name": "CS 431",
+        "title": "Embedded Systems",
+        "semester": "2016-sp",
+        "faculty": "Lui Sha"
+    },
+    {
+        "name": "CS 433",
+        "title": "Computer System Organization",
+        "semester": "2016-sp",
+        "faculty": "Sarita V. Adve"
+    },
+    {
+        "name": "CS 438",
+        "title": "Communication Networks",
+        "semester": "2016-sp",
+        "faculty": "Robin Hillary Kravets"
+    },
+    {
+        "name": "CS 440",
+        "title": "Artificial Intelligence",
+        "semester": "2016-sp",
+        "faculty": "Gerald F. DeJong II"
+    },
+    {
+        "name": "CS 450",
+        "title": "Numerical Analysis",
+        "semester": "2016-sp",
+        "faculty": "Andreas Paul Eberhard Kloeckner"
+    },
+    {
+        "name": "CS 460",
+        "title": "Security Laboratory",
+        "semester": "2016-sp",
+        "faculty": "Bambenek John C"
+    },
+    {
+        "name": "CS 461",
+        "title": "Computer Security I",
+        "semester": "2016-sp",
+        "faculty": "Michael Bailey"
+    },
+    {
+        "name": "CS 463",
+        "title": "Computer Security II",
+        "semester": "2016-sp",
+        "faculty": "Carl Gunter"
+    },
+    {
+        "name": "CS 465",
+        "title": "User Interface Design",
+        "semester": "2016-sp",
+        "faculty": "Alex Kirlik"
+    },
+    {
+        "name": "CS 466",
+        "title": "Introduction to Bioinformatics",
+        "semester": "2016-sp",
+        "faculty": "Jian Peng"
+    },
+    {
+        "name": "CS 467",
+        "title": "Social Visualization",
+        "semester": "2016-sp",
+        "faculty": "Karrie Karahalios"
+    },
+    {
+        "name": "CS 484",
+        "title": "Parallel Programming",
+        "semester": "2016-sp",
+        "faculty": "Laxmikant V. Kale"
+    },
+    {
+        "name": "CS 493",
+        "title": "Senior Project II ACP",
+        "semester": "2016-sp",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 494",
+        "title": "Senior Project II",
+        "semester": "2016-sp",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 498",
+        "title": "Mobile Interaction Design",
+        "semester": "2016-sp",
+        "faculty": "Brian P. Bailey"
+    },
+    {
+        "name": "CS 498",
+        "title": "Algorithms and Models of Comp",
+        "semester": "2016-sp",
+        "faculty": "Mahesh Viswanathan"
+    },
+    {
+        "name": "CS 498",
+        "title": "Probability in CS",
+        "semester": "2016-sp",
+        "faculty": "Paris Smaragdis"
+    },
+    {
+        "name": "CS 498",
+        "title": "Applied Machine Learning",
+        "semester": "2016-sp",
+        "faculty": "David Forsyth"
+    },
+    {
+        "name": "CS 498",
+        "title": "Theory II",
+        "semester": "2016-sp",
+        "faculty": "Jeff G. Erickson"
+    },
+    {
+        "name": "CS 498",
+        "title": "Software Testing",
+        "semester": "2016-sp",
+        "faculty": "Darko Marinov"
+    },
+    {
+        "name": "CS 498",
+        "title": "Art and Science of Web Prog",
+        "semester": "2016-sp",
+        "faculty": "Ranjitha Kumar"
+    },
+    {
+        "name": "CS 498",
+        "title": "Virtual Reality",
+        "semester": "2016-sp",
+        "faculty": "Steven M. LaValle"
+    },
+    {
+        "name": "CS 511",
+        "title": "Advanced Data Management",
+        "semester": "2016-sp",
+        "faculty": "Kevin Chen-Chuan Chang"
+    },
+    {
+        "name": "CS 512",
+        "title": "Data Mining Principles",
+        "semester": "2016-sp",
+        "faculty": "Jiawei Han"
+    },
+    {
+        "name": "CS 525",
+        "title": "Advanced Distributed Systems",
+        "semester": "2016-sp",
+        "faculty": "Indranil Gupta"
+    },
+    {
+        "name": "CS 533",
+        "title": "Parallel Computer Architecture",
+        "semester": "2016-sp",
+        "faculty": "Josep Torrellas"
+    },
+    {
+        "name": "CS 538",
+        "title": "Advanced Computer Networks",
+        "semester": "2016-sp",
+        "faculty": "Nahrstedt Klara"
+    },
+    {
+        "name": "CS 546",
+        "title": "Machine Learning in NLP",
+        "semester": "2016-sp",
+        "faculty": "Roth Dan"
+    },
+    {
+        "name": "CS 555",
+        "title": "Numerical Methods for PDEs",
+        "semester": "2016-sp",
+        "faculty": "Luke Olson"
+    },
+    {
+        "name": "CS 100",
+        "title": "Freshman Orientation",
+        "semester": "2015-fa",
+        "faculty": "Leonard B. Pitt"
+    },
+    {
+        "name": "CS 101",
+        "title": "Intro Computing: Engrg & Sci",
+        "semester": "2015-fa",
+        "faculty": "Ryan Matthew Cunningham"
+    },
+    {
+        "name": "CS 105",
+        "title": "Intro Computing: Non-Tech",
+        "semester": "2015-fa",
+        "faculty": "Wade A. Fagen-Ulmschneider"
+    },
+    {
+        "name": "CS 125",
+        "title": "Intro to Computer Science",
+        "semester": "2015-fa",
+        "faculty": "Chapman William L"
+    },
+    {
+        "name": "CS 173",
+        "title": "Discrete Structures",
+        "semester": "2015-fa",
+        "faculty": "Margaret M. Fleck"
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "semester": "2015-fa",
+        "faculty": "Chapman William L"
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "semester": "2015-fa",
+        "faculty": "Margaret M. Fleck"
+    },
+    {
+        "name": "CS 199",
+        "title": "Undergraduate Open Seminar",
+        "semester": "2015-fa",
+        "faculty": "Heeren Cinda"
+    },
+    {
+        "name": "CS 210",
+        "title": "Ethical & Professional Issues",
+        "semester": "2015-fa",
+        "faculty": "Ryan Matthew Cunningham"
+    },
+    {
+        "name": "CS 225",
+        "title": "Data Structures",
+        "semester": "2015-fa",
+        "faculty": "Heeren Cinda"
+    },
+    {
+        "name": "CS 233",
+        "title": "Computer Architecture",
+        "semester": "2015-fa",
+        "faculty": "Craig Zilles"
+    },
+    {
+        "name": "CS 241",
+        "title": "System Programming",
+        "semester": "2015-fa",
+        "faculty": "Lawrence Christopher Angrave"
+    },
+    {
+        "name": "CS 242",
+        "title": "Programming Studio",
+        "semester": "2015-fa",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 296",
+        "title": "Honors Course",
+        "semester": "2015-fa",
+        "faculty": "Craig Zilles"
+    },
+    {
+        "name": "CS 357",
+        "title": "Numerical Methods I",
+        "semester": "2015-fa",
+        "faculty": "Luke Olson"
+    },
+    {
+        "name": "CS 411",
+        "title": "Database Systems",
+        "semester": "2015-fa",
+        "faculty": "Saurabh Sinha"
+    },
+    {
+        "name": "CS 412",
+        "title": "Introduction to Data Mining",
+        "semester": "2015-fa",
+        "faculty": "Kevin Chen-Chuan Chang"
+    },
+    {
+        "name": "CS 418",
+        "title": "Interactive Computer Graphics",
+        "semester": "2015-fa",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 420",
+        "title": "Parallel Progrmg: Sci & Engrg",
+        "semester": "2015-fa",
+        "faculty": "Laxmikant V. Kale"
+    },
+    {
+        "name": "CS 425",
+        "title": "Distributed Systems",
+        "semester": "2015-fa",
+        "faculty": "Indranil Gupta"
+    },
+    {
+        "name": "CS 426",
+        "title": "Compiler Construction",
+        "semester": "2015-fa",
+        "faculty": "Vikram Adve"
+    },
+    {
+        "name": "CS 427",
+        "title": "Software Engineering I",
+        "semester": "2015-fa",
+        "faculty": "Darko Marinov"
+    },
+    {
+        "name": "CS 431",
+        "title": "Embedded Systems",
+        "semester": "2015-fa",
+        "faculty": "Lui Sha"
+    },
+    {
+        "name": "CS 433",
+        "title": "Computer System Organization",
+        "semester": "2015-fa",
+        "faculty": "Josep Torrellas"
+    },
+    {
+        "name": "CS 438",
+        "title": "Communication Networks",
+        "semester": "2015-fa",
+        "faculty": "Romit Roy Choudhury"
+    },
+    {
+        "name": "CS 440",
+        "title": "Artificial Intelligence",
+        "semester": "2015-fa",
+        "faculty": "Svetlana Lazebnik"
+    },
+    {
+        "name": "CS 445",
+        "title": "Computational Photography",
+        "semester": "2015-fa",
+        "faculty": "Derek W. Hoiem"
+    },
+    {
+        "name": "CS 446",
+        "title": "Machine Learning",
+        "semester": "2015-fa",
+        "faculty": "Roth Dan"
+    },
+    {
+        "name": "CS 447",
+        "title": "Natural Language Processing",
+        "semester": "2015-fa",
+        "faculty": "Julia Constanze Hockenmaier"
+    },
+    {
+        "name": "CS 450",
+        "title": "Numerical Analysis",
+        "semester": "2015-fa",
+        "faculty": "Paul Fischer"
+    },
+    {
+        "name": "CS 461",
+        "title": "Computer Security I",
+        "semester": "2015-fa",
+        "faculty": "Michael Bailey"
+    },
+    {
+        "name": "CS 465",
+        "title": "User Interface Design",
+        "semester": "2015-fa",
+        "faculty": "Fu Wai-Tat"
+    },
+    {
+        "name": "CS 492",
+        "title": "Senior Project I",
+        "semester": "2015-fa",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 498",
+        "title": "Digital Forensics",
+        "semester": "2015-fa",
+        "faculty": "Roy H. Campbell"
+    },
+    {
+        "name": "CS 498",
+        "title": "Algorithms and Models of Comp",
+        "semester": "2015-fa",
+        "faculty": "Chandra Sekhar Chekuri"
+    },
+    {
+        "name": "CS 498",
+        "title": "Probability in CS",
+        "semester": "2015-fa",
+        "faculty": "David Forsyth"
+    },
+    {
+        "name": "CS 498",
+        "title": "Theory II",
+        "semester": "2015-fa",
+        "faculty": "Sariel Har-Peled"
+    },
+    {
+        "name": "CS 498",
+        "title": "Virtual Reality",
+        "semester": "2015-fa",
+        "faculty": "Yershova Ganna"
+    },
+    {
+        "name": "CS 519",
+        "title": "Scientific Visualization",
+        "semester": "2015-fa",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 527",
+        "title": "Topics in Software Engineering",
+        "semester": "2015-fa",
+        "faculty": "Tao Xie"
+    },
+    {
+        "name": "CS 554",
+        "title": "Parallel Numerical Algorithms",
+        "semester": "2015-fa",
+        "faculty": "Michael T. Heath"
+    },
+    {
+        "name": "CS 565",
+        "title": "Human-Computer Interaction",
+        "semester": "2015-fa",
+        "faculty": "Brian P. Bailey"
+    },
+    {
+        "name": "CS 598",
+        "title": "Advanced Data Structures",
+        "semester": "2015-fa",
+        "faculty": "Jeff G. Erickson"
+    },
+    {
+        "name": "CS 598",
+        "title": "Machine Lrning Computation Bio",
+        "semester": "2015-fa",
+        "faculty": "Jian Peng"
+    },
+    {
+        "name": "CS 598",
+        "title": "Data-Driven Design",
+        "semester": "2015-fa",
+        "faculty": "Ranjitha Kumar"
+    },
+    {
+        "name": "CS 101",
+        "title": "Intro Computing: Engrg & Sci",
+        "semester": "2015-sp",
+        "faculty": "Gambill Thomas N"
+    },
+    {
+        "name": "CS 105",
+        "title": "Intro Computing: Non-Tech",
+        "semester": "2015-sp",
+        "faculty": "Wade A. Fagen-Ulmschneider"
+    },
+    {
+        "name": "CS 125",
+        "title": "Intro to Computer Science",
+        "semester": "2015-sp",
+        "faculty": "Chapman William L"
+    },
+    {
+        "name": "CS 173",
+        "title": "Discrete Structures",
+        "semester": "2015-sp",
+        "faculty": "Margaret M. Fleck"
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "semester": "2015-sp",
+        "faculty": "Chapman William L"
+    },
+    {
+        "name": "CS 196",
+        "title": "Freshman Honors",
+        "semester": "2015-sp",
+        "faculty": "Margaret M. Fleck"
+    },
+    {
+        "name": "CS 199",
+        "title": "Undergraduate Open Seminar",
+        "semester": "2015-sp",
+        "faculty": "Yershova Ganna"
+    },
+    {
+        "name": "CS 210",
+        "title": "Ethical & Professional Issues",
+        "semester": "2015-sp",
+        "faculty": "Ryan Matthew Cunningham"
+    },
+    {
+        "name": "CS 225",
+        "title": "Data Structures",
+        "semester": "2015-sp",
+        "faculty": "Heeren Cinda"
+    },
+    {
+        "name": "CS 233",
+        "title": "Computer Architecture",
+        "semester": "2015-sp",
+        "faculty": "Craig Zilles"
+    },
+    {
+        "name": "CS 241",
+        "title": "System Programming",
+        "semester": "2015-sp",
+        "faculty": "Lawrence Christopher Angrave"
+    },
+    {
+        "name": "CS 242",
+        "title": "Programming Studio",
+        "semester": "2015-sp",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 296",
+        "title": "Honors Course",
+        "semester": "2015-sp",
+        "faculty": "Heeren Cinda"
+    },
+    {
+        "name": "CS 296",
+        "title": "Honors Course",
+        "semester": "2015-sp",
+        "faculty": "Craig Zilles"
+    },
+    {
+        "name": "CS 357",
+        "title": "Numerical Methods I",
+        "semester": "2015-sp",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 357",
+        "title": "Numerical Methods I",
+        "semester": "2015-sp",
+        "faculty": "Andreas Paul Eberhard Kloeckner"
+    },
+    {
+        "name": "CS 410",
+        "title": "Text Information Systems",
+        "semester": "2015-sp",
+        "faculty": "ChengXiang Zhai"
+    },
+    {
+        "name": "CS 411",
+        "title": "Database Systems",
+        "semester": "2015-sp",
+        "faculty": "Kevin Chen-Chuan Chang"
+    },
+    {
+        "name": "CS 418",
+        "title": "Interactive Computer Graphics",
+        "semester": "2015-sp",
+        "faculty": "John C. Hart"
+    },
+    {
+        "name": "CS 421",
+        "title": "Progrmg Languages & Compilers",
+        "semester": "2015-sp",
+        "faculty": "Gul A. Agha"
+    },
+    {
+        "name": "CS 423",
+        "title": "Operating Systems Design",
+        "semester": "2015-sp",
+        "faculty": "Tarek Abdelzaher"
+    },
+    {
+        "name": "CS 425",
+        "title": "Distributed Systems",
+        "semester": "2015-sp",
+        "faculty": "Vaidya Nitin H"
+    },
+    {
+        "name": "CS 428",
+        "title": "Software Engineering II",
+        "semester": "2015-sp",
+        "faculty": "Tao Xie"
+    },
+    {
+        "name": "CS 429",
+        "title": "Software Engineering II ACP",
+        "semester": "2015-sp",
+        "faculty": "Tao Xie"
+    },
+    {
+        "name": "CS 431",
+        "title": "Embedded Systems",
+        "semester": "2015-sp",
+        "faculty": "Marco Caccamo"
+    },
+    {
+        "name": "CS 433",
+        "title": "Computer System Organization",
+        "semester": "2015-sp",
+        "faculty": "Garzaran Maria J"
+    },
+    {
+        "name": "CS 438",
+        "title": "Communication Networks",
+        "semester": "2015-sp",
+        "faculty": "Robin Hillary Kravets"
+    },
+    {
+        "name": "CS 440",
+        "title": "Artificial Intelligence",
+        "semester": "2015-sp",
+        "faculty": "Svetlana Lazebnik"
+    },
+    {
+        "name": "CS 446",
+        "title": "Machine Learning",
+        "semester": "2015-sp",
+        "faculty": "Julia Constanze Hockenmaier"
+    },
+    {
+        "name": "CS 450",
+        "title": "Numerical Analysis",
+        "semester": "2015-sp",
+        "faculty": "Paul Fischer"
+    },
+    {
+        "name": "CS 460",
+        "title": "Security Laboratory",
+        "semester": "2015-sp",
+        "faculty": "Bambenek John C"
+    },
+    {
+        "name": "CS 461",
+        "title": "Computer Security I",
+        "semester": "2015-sp",
+        "faculty": "Michael Bailey"
+    },
+    {
+        "name": "CS 463",
+        "title": "Computer Security II",
+        "semester": "2015-sp",
+        "faculty": "Carl Gunter"
+    },
+    {
+        "name": "CS 465",
+        "title": "User Interface Design",
+        "semester": "2015-sp",
+        "faculty": "Fu Wai-Tat"
+    },
+    {
+        "name": "CS 466",
+        "title": "Introduction to Bioinformatics",
+        "semester": "2015-sp",
+        "faculty": "Saurabh Sinha"
+    },
+    {
+        "name": "CS 473",
+        "title": "Fundamental Algorithms",
+        "semester": "2015-sp",
+        "faculty": "Sariel Har-Peled"
+    },
+    {
+        "name": "CS 484",
+        "title": "Parallel Programming",
+        "semester": "2015-sp",
+        "faculty": "Laxmikant V. Kale"
+    },
+    {
+        "name": "CS 493",
+        "title": "Senior Project II ACP",
+        "semester": "2015-sp",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 494",
+        "title": "Senior Project II",
+        "semester": "2015-sp",
+        "faculty": "Michael Joseph Woodley"
+    },
+    {
+        "name": "CS 498",
+        "title": "Algorithms and Models of Comp",
+        "semester": "2015-sp",
+        "faculty": "Leonard B. Pitt"
+    },
+    {
+        "name": "CS 498",
+        "title": "Probability in CS",
+        "semester": "2015-sp",
+        "faculty": "David Forsyth"
+    },
+    {
+        "name": "CS 498",
+        "title": "Theory II",
+        "semester": "2015-sp",
+        "faculty": "Jeff G. Erickson"
+    },
+    {
+        "name": "CS 498",
+        "title": "Software Testing",
+        "semester": "2015-sp",
+        "faculty": "Darko Marinov"
+    },
+    {
+        "name": "CS 498",
+        "title": "Art and Science of Web Prog",
+        "semester": "2015-sp",
+        "faculty": "Ranjitha Kumar"
+    },
+    {
+        "name": "CS 498",
+        "title": "Virtual Reality",
+        "semester": "2015-sp",
+        "faculty": "Steven M. LaValle"
+    },
+    {
+        "name": "CS 512",
+        "title": "Data Mining Principles",
+        "semester": "2015-sp",
+        "faculty": "Jiawei Han"
+    },
+    {
+        "name": "CS 519",
+        "title": "Scientific Visualization",
+        "semester": "2015-sp",
+        "faculty": "Eric Gene Shaffer"
+    },
+    {
+        "name": "CS 525",
+        "title": "Advanced Distributed Systems",
+        "semester": "2015-sp",
+        "faculty": "Indranil Gupta"
+    },
+    {
+        "name": "CS 533",
+        "title": "Parallel Computer Architecture",
+        "semester": "2015-sp",
+        "faculty": "Josep Torrellas"
+    },
+    {
+        "name": "CS 555",
+        "title": "Numerical Methods for PDEs",
+        "semester": "2015-sp",
+        "faculty": "Luke Olson"
+    },
+    {
+        "name": "CS 598",
+        "title": "Topic in Algorithms",
+        "semester": "2015-sp",
+        "faculty": "Blum Avrim L"
+    },
+    {
+        "name": "CS 598",
+        "title": "Improving Your Research Skills",
+        "semester": "2015-sp",
+        "faculty": "Lui Sha"
+    }
+]
